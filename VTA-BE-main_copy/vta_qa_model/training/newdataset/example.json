@@ -1,0 +1,29 @@
+[
+    {
+        "context": "The Capstone project takes 3 semesters to complete. Each semester has 5 ECTS credits. Students work in groups of 4-5 people.",
+        "qas": [
+            {
+                "id": "00001",
+                "question": "How long does the Capstone project take?",
+                "answers": [
+                    {
+                        "text": ["3 semesters"],
+                        "answer_start": 21,
+                        "answer_end": 33
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "question": "How many ECTS credits per semester?",
+                "answers": [
+                    {
+                        "text": ["5 ECTS credits"],
+                        "answer_start": 45,
+                        "answer_end": 60
+                    }
+                ]
+            }
+        ]
+    }
+] 

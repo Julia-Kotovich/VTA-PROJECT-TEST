@@ -1,0 +1,7 @@
+/VTA-BE-main_copy/venv
+__pycache__
+.DS_Store
+VTA-BE-main_copy/VTA-tools/models/mistral-7b-instruct-v0.2.Q4_K_M.gguf
+VTA-BE-main_copy/gc-api-keys.json
+VTA-BE-main_copy/.env
+VTA-BE-main_copy/VTA-tools/llama.cpp/

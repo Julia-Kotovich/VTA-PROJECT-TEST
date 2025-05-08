@@ -1,0 +1,412 @@
+﻿Q1. What is the main goal of Sprint 5?
+A1. To prepare the demo for stakeholders.
+Q2. Who should be invited to the demo presentation?
+A2. At a minimum, instructors should be invited.
+Q3. What should the demo presentation include?
+A3. A concept description, a running website, stakeholder interaction, content preview, development process, and next steps.
+Q4. What is the ‘Tribe assignment’ in the context of Sprint 5?
+A4. It refers to presenting the project demo to the stakeholder group (the “tribe”).
+Q5. Why is talking to stakeholders emphasized in Sprint 5?
+A5. Because getting feedback and buy-in from stakeholders is crucial for project success.
+Q6. What two components are essential to prepare for the stakeholder interaction?
+A6. A pitch and a demo.
+Q7. What is a pitch and how long should it take?
+A7. A pitch is a short presentation lasting 2–5 minutes.
+Q8. What are the characteristics of a good pitch?
+A8. It should be simple, fun, insightful, and explain why people should support you.
+Q9. Why should the pitch be fun and insightful?
+A9. To engage the audience and clearly communicate the value of your idea.
+Q10. What is the purpose of a pitch in a demo setting?
+A10. To make stakeholders understand and support your project, possibly with funding or feedback.
+Q11. How should a pitch start?
+A11. With a question that addresses a problem from the customer’s perspective.
+Q12. What is the purpose of explaining the problem in a pitch?
+A12. To show the need or “why” behind your solution.
+Q13. What should the solution part of a pitch include?
+A13. What your solution is, how it works, and how it creates a paradigm shift.
+Q14. What is a paradigm shift in the context of a pitch?
+A14. A significant change in approach or underlying assumptions.
+Q15. Why is market and competitor analysis important in a pitch?
+A15. To show your position in the market and the size of the opportunity.
+Q16. What should you include in a 2D market/competitor graph?
+A16. Relevant axes to show your unique positioning among competitors.
+Q17. Why should you show the team in a pitch?
+A17. To demonstrate the people behind the project and their credibility.
+Q18. What’s recommended to include when presenting the team?
+A18. At least 2 founders and their pictures.
+Q19. What does the “hockey stick” graph represent in a business case?
+A19. It illustrates projected growth over time, typically steep after 3 years.
+Q20. Why shouldn’t you promise anything before 3 years in the business case?
+A20. To set realistic expectations and avoid overpromising.
+Q21. What is a unique insight in a pitch?
+A21. A special understanding or perspective that gives your team an edge.
+Q22. What should be included in the “Ask” part of a pitch?
+A22. A clear request for money, feedback, or advertisement support.
+Q23. What makes a demo compelling?
+A23. It clearly answers the problem statement and functions smoothly.
+Q24. What content should already be included in the demo?
+A24. Some initial content to showcase during stakeholder interaction.
+Q25. Why is a short and working demo important?
+A25. Because stakeholders have limited time and expect to see real results.
+Q26. What should the demo presentation cover?
+A26. The concept, the running product, the process, and the next steps.
+Conclusion – What Students Should Do
+Q27. What are students expected to do after learning this material?
+A27. Prepare their own pitch and demo for stakeholder feedback.
+Q28. Why is stakeholder demo preparation emphasized in the course?
+A28. Because it reflects real-world project validation and presentation skills.
+
+Q29. What exactly is Sprint 5 about? I’m a bit confused.
+A29. Sprint 5 is focused on preparing a demo of your project for stakeholders, where you show progress and get feedback.
+Q30. Who are the stakeholders we’re supposed to present to?
+A30. At minimum, your instructors. But ideally, real or potential users, mentors, or anyone who could benefit from or evaluate your project.
+Q31. What does “Tribe assignment” mean? I don’t remember this term.
+A31. It’s just the name for this activity where your project team (or “tribe”) presents the demo to the stakeholders.
+Q32. What is a pitch? Is it like a sales thing? 
+A32. Yes, kind of. A pitch is a short, persuasive talk (2–5 minutes) where you explain your idea, why it matters, and what you need.
+Q33. Are we doing the pitch alone or in teams?
+A33. You can do it as a team, but one person usually speaks while others support visually or during Q&A.
+Q34. Can we use slides in the pitch? Or is it just talking?
+A34. Yes, you can use slides. Keep them minimal and clear. The focus is on what you say.
+Q35. Do we have to memorize the pitch?
+A35. Not necessarily, but you should know it well enough to speak fluently without reading.
+Q36. What is a “paradigm shift”? That sounds complicated.
+A36. It means your solution changes the way people normally do things — like a big improvement or new approach.
+Q37. What does “job-to-be-done” mean?
+A37. It’s the task or need your user wants to solve. You’re showing that your product helps them get that job done better.
+Q38. What does (0/1/2) next to each item mean?
+A38. That’s the grading scale — 0 means missing, 1 is partial, and 2 means well done. Each demo component is scored like that.
+Q39. Will we get individual grades or group grades?
+A39. Usually group grades, but sometimes instructors adjust based on individual contributions.
+Q40. What if our demo isn’t working yet? Can we still present? 
+A40. Yes, but you need to show at least some working part or simulate it. Be honest and explain your progress.
+Q41. What does “stakeholders should try functionalities” mean? 
+A41. It means your demo should be interactive — let them click buttons, explore your app, etc., even if limited.
+Q42. Can we do the pitch and demo online if our stakeholder can’t come in person?
+A42. Yes, online presentations are allowed if arranged in advance.
+Q43. When is this due? 
+A43. Check the schedule in your course materials — usually at the end of Sprint 5.
+Q44. Will we get feedback after the demo?
+A44. Yes, stakeholders and instructors will give you feedback right after your presentation or in writing later.
+Q45. What does the “hockey stick” in the business case mean? 
+A45. It’s a graph showing slow growth at first, then fast growth later — like a hockey stick curve.
+Q46. Do we need to actually show a business model in the pitch?
+A46. Yes, just a basic version — how you think the product could earn money or bring value.
+Q47. What if we don’t have any real users yet? 
+A47. That’s okay — describe your target users and how you plan to reach them.
+Q48. Is the pitch and demo the same presentation or two different things? 
+A48. They’re often presented together: first the pitch (2–5 min), then the live demo (5–10 min).
+Q49. Can you give an example of a good pitch?
+A49. Yes! Ask your instructor or check the course platform — many past examples are available to review.
+Q50. Can we get help or feedback before the real pitch/demo?
+A50. Absolutely — that’s encouraged! Ask your TA, mentor, or instructor to review your draft.
+Q51. Do we need to include all the parts listed in the pitch structure?
+A51. Ideally, yes — covering the problem, solution, market, team, business case, insight, and ask shows a complete picture.
+Q52. What if we don’t have any “unique insight”?
+A52. Try to think about what you’ve learned during development or from your users — even a small insight is valuable.
+Q53. How do we make our pitch “fun”?
+A53. Use a personal story, humor, or surprising fact — just make sure it still fits the message and stays clear.
+Q54. Is it okay to say “we’re not sure yet” in the demo or pitch?
+A54. Yes — honesty is appreciated if you follow it up with what you’re doing to figure it out.
+Q55. Can we skip the market graph if we don’t have enough data?
+A55. If you can’t make a graph, describe your competitors and market position in words — it’s better than skipping it entirely.
+Q56. What if our project isn’t “innovative enough”?
+A56. Focus on how your idea solves the problem better or more accessibly than current options — that’s also valuable.
+Q57. How do we make sure our pitch fits in 5 minutes?
+A57. Practice a few times with a timer and cut anything extra — focus on clarity and the core message.
+Q58. Should we rehearse the demo too or just the pitch?
+A58. Definitely rehearse both — especially transitions and any technical parts that might break.
+Q59. What’s more important: the pitch or the demo?
+A59. Both are important, but the demo often speaks louder — it shows what you’ve actually built.
+Q60. Can we include screenshots if we can’t show a live demo?
+A60. Yes, but make sure to explain what each part does and be transparent about what’s real vs. planned.
+Q61. Do we need to explain the tech stack in the pitch?
+A61. Not unless it’s relevant to your value proposition — save technical details for Q&A or documentation.
+Q62. What if we have multiple ideas — should we pitch them all?
+A62. No — pick the strongest one and focus on telling its story clearly.
+Q63. Should we design our pitch for investors or users?
+A63. Focus on your stakeholders — for now, it’s likely instructors or potential users, not actual investors.
+Q64. Is it okay to make jokes in the pitch?
+A64. Yes, if they’re appropriate and support your message — don’t force them or distract from your point.
+Q65. Do we need to write a script or can we just go with the flow?
+A65. Writing a script helps at first, but you should try to speak naturally from memory during the real presentation.
+Q66. When are the main lecture sessions scheduled?
+A66. Every Friday from 09:45 to 11:00 and from 11:15 to 12:30 CET.
+Q67. Are all lectures the same length?
+A67. No, guest lectures will probably be shorter, around 1 hour.
+Q68. Where can we find the time for TA sessions?
+A68. You should check Campus Net for the current TA schedule.
+Q69. How many semesters does the course last?
+A69. The course spans over three terms (semesters).
+Q70. How many ECTS credits do we get in the first semester?
+A70. 5 ECTS credits, or 6 credits if you’re at CIT.
+Q71. And in the second semester?
+A71. Also 5 ECTS credits, or 6 credits at CIT.
+Q72. How about the third semester?
+A72. Again, 5 ECTS credits, or 6 at CIT.
+Q73. What does one ECTS credit represent in terms of workload?
+A73. One ECTS credit corresponds to 25 to 30 working hours.
+Q74. What’s the difference between ECTS and CIT credits?
+A74. CIT credits are used locally at your institution, but the ECTS system is European and more standardized internationally.
+Q75. Do we get a grade for each semester separately?
+A75. This depends on your local institution’s grading system, but usually you’re assessed each term based on project progress and deliverables.
+Q76. What if I miss a lecture — is attendance mandatory?
+A76. Attendance rules depend on the instructor, but it’s strongly recommended to attend, especially because guest lectures are not always recorded.
+Q77. Will the same TA be available throughout all three semesters?
+A77. TA availability may change each term — check Campus Net for the current assignment.
+Q78. Who are the teaching assistants for this course?
+A78. Muhammad Khalid, Viktoriya Kananchuk, and Pavel Egorov.
+Q79. What does Muhammad Khalid do?
+A79. He is a PhD researcher and lecturer at Constructor University.
+Q80. What’s Viktoriya Kananchuk’s role?
+A80. She is a PhD researcher at Constructor Institute.
+Q81. What’s the background of Pavel Egorov?
+A81. He is the Head of Educational Program at JetBrains.
+Q82. Can we contact the TAs directly for help?
+A82. Yes, but it’s best to follow the communication guidelines from the course — usually via Campus Net or official email.
+Q83. Will all three TAs be available every week?
+A83. Not necessarily — their availability may vary, so check Campus Net for weekly updates.
+Q84. Are the TAs grading our work or just helping us?
+A84. TAs mainly support you, but they might also be involved in evaluating your presentations and progress.
+Q85. Can I choose which TA to contact or ask questions to?
+A85. Generally yes, but if a specific TA is assigned to your group, it’s best to reach out to them first.
+Q86. When does the course officially start?
+A86. The first scheduled activity is team formation, which starts on February 21, 2025.
+Q87. What happens on February 28?
+A87. That’s when the architecture phase begins.
+Q88. What are we supposed to do during the “Teams formation” phase?
+A88. You’re expected to form your project team and choose a topic or direction to work on.
+Q89. How long does the architecture phase last?
+A89. It starts on February 28 and runs until March 14, 2025.
+Q90. What are we doing during the architecture phase?
+A90. You’ll design the structure of your application — including planning features, technologies, and overall design.
+Q91. When does the development phase start?
+A91. Development begins on March 14, 2025.
+Q92. How long does the development phase last?
+A92. From March 14 until May 16, 2025.
+Q93. What’s the final goal of the development phase?
+A93. To have your project portal ready and deployed by May 16, 2025.
+Q94. Is all of this work done individually or in teams?
+A94. It’s group work — you’ll collaborate with your team throughout the term.
+Q95. How is our work graded throughout the term?
+A95. Each sprint is graded equally — your performance in each phase contributes the same to your final evaluation.
+Q96. What happens if we miss a sprint or fall behind?
+A96. Falling behind can affect your group grade, so it’s important to stay on track — speak to your TA if issues come up.
+Q97. Are the dates on the timeline fixed or can they shift?
+A97. These are planned dates for 2025 — major shifts are unlikely but possible in exceptional cases.
+Q98. Do we have to deploy a real, working project by May 16?
+A98. Yes — at least a basic functional version should be online and accessible to demonstrate your work.
+Q99. How many sprints are there in this course?
+A99. There are five sprints planned for the Spring term.
+Q100. What is a sprint demo?
+A100. It’s a short presentation where teams show what they’ve completed during the sprint.
+Q101. What is sprint planning?
+A101. It’s the session where you define the goals and tasks for the next sprint.
+Q102. How often do we have sprint demos and planning?
+A102. They usually happen every two weeks, often combined in the same session.
+Q103. How many guest lectures are scheduled for this term?
+A103. There are three guest lectures planned.
+Q104. Who are the guest lecturers this semester?
+A104. Yvonne-Anne Pignolet from Dfinity, and Sven Koos from ABB, plus one more on Dynamic Software Updates.
+Q105. Are guest lectures mandatory?
+A105. Attendance is highly recommended as they’re part of the course experience.
+Q106. What happens if a lecture is cancelled or rescheduled?
+A106. Sometimes it’s moved to a TA session, or skipped due to holidays like Good Friday.
+Q107. What is the stakeholder demo?
+A107. It’s the final presentation where you show your completed project to instructors and external stakeholders.
+Q108. Are there any sessions only for CIT students?
+A108. Yes — the final two sessions on May 23 and May 30 are only for CIT students.
+Q109. Do we have lectures every single week?
+A109. Almost every week, but there are a few breaks for holidays or project work.
+Q110. Is the guest lecture content included in exams or grading?
+A110. Not directly, but they may influence your understanding and project thinking — so they are still important.
+
+
+Q111. I’m preparing my first pitch and don’t know where to start. Are there any frameworks I can follow?
+A111. Yes, a widely used structure is the Problem–Solution–Why Now–Market–Team–Ask framework. It helps you clearly present your idea by addressing the problem you’re solving, your solution, why it’s timely, the market opportunity, your team’s strengths, and what you’re seeking from your audience.
+Q112. I want my pitch to be engaging like a TED Talk. Any tips?
+A112. Absolutely! The “Pitch Like a TED Talk” approach emphasizes storytelling, emotional connection, and clarity. Focus on a compelling narrative, use relatable examples, and keep your message concise and impactful.
+Q113. How can I avoid overloading my slides with information?
+A113. Follow the “One Slide, One Message” principle. Ensure each slide conveys a single, clear idea. Use visuals and minimal text to keep your audience focused and engaged.
+Q114. Is there a guideline for the number of slides and presentation length?
+A114. Yes, Guy Kawasaki’s 10/20/30 Rule suggests using 10 slides, delivering your presentation in 20 minutes, and using a minimum 30-point font size to maintain readability and clarity.
+Q115. Where can I learn more about these pitching methods?
+A115. You can find resources online by searching for the specific frameworks. For example, look up articles and videos on the Problem–Solution–Why Now–Market–Team–Ask structure, TED Talk presentation techniques, the One Slide, One Message principle, and Guy Kawasaki’s 10/20/30 Rule.
+Q116. I have no idea how to make a pitch. Are there different ways to do it?
+A116. Yes, there are several popular methods to structure a pitch. For example:
+* The Problem–Solution–Why Now–Market–Team–Ask framework (great for startups)
+* The TED Talk style, which uses storytelling and emotion
+The One Slide, One Message principle (helps make your slides clear and focused)
+* The 10/20/30 Rule by Guy Kawasaki (10 slides, 20 minutes, 30 pt font)
+
+You can choose the one that suits your style best — or combine them! Let me know if you want a quick explanation of any of these.
+Q117. What’s the easiest way to start building my pitch if I’ve never done one before?
+A117. Start by thinking of a simple story: what problem are you solving and how? Then build around that using one of the common structures like the Problem–Solution–Ask method. Don’t worry about slides at first — just try to explain your idea clearly in 1–2 minutes.
+Q118. Do I have to follow a specific method to make my pitch?
+A118. No, there’s no single “correct” method — use whatever helps you tell your story clearly and confidently. That’s what really matters.
+Q119. I’ve never done a demo before. What is a demo exactly?
+A119. A demo is a short, practical presentation of your product or prototype — you show how it works, what it solves, and why it’s useful.
+Q120. How is a demo different from a pitch?
+A120. A pitch is more about telling the story behind your idea, while a demo is about showing it — you let people see or interact with the actual thing you’ve built.
+Q121. Are there any popular ways to structure a good demo?
+A121. Yes! Many demos follow a “story-based flow”:
+   1. Start with a problem
+   2. Show how a user would solve it with your product
+   3. Highlight the best or most unique part
+   4. End with a result or next step
+
+Some also use the “WOW-first” method: show something impressive right away to grab attention.
+Q122. What makes a demo really good?
+A122. A good demo is short, clear, and reliable. It tells a story, avoids bugs, and makes people go, “Oh, that’s cool!”
+Q123. What if my product isn’t fully working yet?
+A123. That’s okay — you can show a part that works, use mockups, or even show a screen recording. Just be honest and explain what you’ve built so far.
+Q124. Do I have to speak during the demo, or can I just click through it?
+A124. It’s best to talk while showing — explain what you’re doing and why. Think of it as giving a short guided tour of your project.
+Q125. Can you give me an easy way to start preparing my demo?
+A125. Sure! Here’s a simple plan:
+      1. Pick one user problem
+      2. Show how your product solves it
+Practice clicking through that flow
+      3. Time yourself — aim for 2–3 minutes
+
+Add your voice and you’ve got a demo!
+Q126. Are there tools or templates to help make a demo?
+A126. Yes — you can use tools like Loom (for screen recording), Figma (for UI mockups), or live browser setups. But sometimes even just a working webpage and good narration are enough.
+Q127. What should I avoid in a demo?
+A127. Avoid trying to show too much, relying on unstable code, or reading from a script word-for-word. Also avoid rushing — go slow and clear.
+Q128. Where can I find examples of really good startup pitches?
+A128. A great place to start is the Y Combinator Demo Day. Startups pitch their ideas in just 2 minutes — concise, clear, and often very impressive. You can find recordings of Demo Days on YouTube and study how they communicate their value fast.
+Q129. What about examples of impressive demos?
+A129. Check out the TechCrunch Disrupt Startup Battlefield. Startups present live demos to expert panels — it’s a great way to see how real products are introduced under pressure.
+Q130. Are there any companies that are known for doing amazing live product demos?
+A130. Yes! Companies like Figma, Notion, and Stripe are famous for clean, user-focused demos. They often show exactly how their product fits into real workflows — simple but powerful.
+Q131. I want to learn how to present like a pro — any schools or methods I can look at?
+A131. Yes — look at IDEO and Stanford d.school. They teach how to use storytelling, design thinking, and empathy in presentations. Their materials and case studies are publicly available and incredibly helpful.
+Q132. Do any of these demos or pitches use special techniques or storytelling styles?
+A132. Definitely! Many of the best presenters use storytelling, show a clear “before and after” transformation, and build tension around the problem. Guy Kawasaki’s presentations are also a masterclass in clarity and brevity.
+Q133. I get super nervous before presentations. Is that normal?
+A133. Yes, it’s completely normal — even experienced speakers get nervous. A bit of adrenaline can actually help you focus. The key is to prepare and practice so you feel more in control.
+Q134. What can I do to calm down before presenting?
+A134. Try deep breathing, stretching, or even a short walk. Some people use power poses or mindfulness techniques. Avoid caffeine right before your presentation.
+Q135. What if I forget what to say during the pitch?
+A135. Don’t panic. Take a pause, breathe, and try to continue from the last thing you remember. You can also keep a small note with keywords to guide you — it’s totally okay.
+Q136. Can I read from a script if I’m too scared to speak freely?
+A136. It’s better to practice until you can speak naturally. Reading from a script can sound robotic and lose the audience. Try to memorize the flow, not the exact words.
+Q137. What if someone asks a question and I don’t know the answer?
+A137. Be honest. Say something like, “That’s a good question — I’ll have to look into that.” It’s better than guessing. You’re not expected to know everything.
+Q138. How do I stop my voice from shaking during the presentation?
+A138. Practice speaking out loud beforehand, breathe deeply before you begin, and focus on your message, not on yourself. Confidence grows with repetition.
+Q139. Is it okay to be nervous during the pitch?
+A139. Absolutely. Nerves mean you care. The audience won’t notice your fear as much as you think — they’re rooting for you more than judging you.
+Q140. I hate public speaking. Can someone else in my team do it?
+A140. You can delegate, but it’s a great learning opportunity. Even saying one part or introducing your team can build confidence over time. Try to push yourself a bit.
+Q141. Should I try to make jokes to feel less nervous?
+A141. If humor feels natural to you — yes! But don’t force it. A warm smile and speaking with genuine energy often works better than a rehearsed joke.
+Q142. How do I recover if I make a mistake during the pitch?
+A142. Just acknowledge it calmly and move on. Most people won’t notice small errors — what matters is how you continue.
+Q143. I feel awkward presenting in English. What can I do?
+A143. Focus on clear, simple language. Practice with a friend or record yourself. The goal isn’t perfect grammar — it’s communication. Your message is more important than perfect words.
+Q144. How can I practice so I feel more confident?
+A144. Practice out loud — alone, in front of a mirror, or with a friend. Record yourself and watch it back. Repetition builds comfort and flow.
+Q145. I don’t feel confident about my project — what if people don’t like it?
+A145. That’s okay. You’re not presenting perfection — you’re showing progress and ideas. Focus on what you’ve learned and built. Confidence comes from owning your work, not from having all the answers.
+Q146. Does one person have to do the entire pitch?
+A146. Not at all — the pitch can be shared. One person can open, another can explain the solution, and someone else can close. Just make sure the flow is smooth and everyone knows their part.
+Q147. How do we decide who presents what in our team?
+A147. Think about each person’s strengths. Who’s confident speaking? Who knows the tech side best? Assign parts based on comfort and expertise — and support each other.
+Q148. What if one team member wants to do the whole thing alone?
+A148. That might work if the rest agree, but this is a team project. Everyone should be involved at least a little — it shows collaboration and shared effort.
+Q149. Should the person who did most of the coding also do the demo?
+A149. Not necessarily. The best demo presenter is someone who can explain things clearly, not just the one who built it. You can help each other rehearse.
+Q150. Can we switch speakers between the pitch and the demo?
+A150. Yes! One person can do the pitch, and another can lead the demo. Just make sure the transition is smooth and clear.
+Q151. What if we all want to speak, but the time is short?
+A151. Choose 1–2 speakers for the main parts and let others take smaller sections or Q&A. It’s better to have a strong, focused delivery than squeeze in everyone.
+Q152. Should we assign someone to handle Q&A after the pitch?
+A152. Yes, that’s smart. Decide who answers which types of questions — tech, design, user side, etc. That way, you won’t stumble or talk over each other.
+Q153. What if someone in our team is too nervous to speak?
+A153. They can still help by managing the slides, running the demo, or supporting during Q&A. Even a short intro line can help them feel included.
+Q154. How do we avoid talking over each other during the demo?
+A154. Practice the full flow together. Agree on cues for when each person speaks. Think of it like a mini theater play — rehearsals make a huge difference.
+Q155. We’re having arguments in the team about who should present. What do we do?
+A155. Pause and talk it through calmly. Focus on what’s best for the project, not personal ego. You can even test different versions and vote — or split roles fairly.
+Q156. Do we need to make slides for our pitch?
+A156. Yes, slides help guide your audience and support your message — just keep them clean, simple, and not overloaded with text.
+Q157. How many slides should we have in our pitch?
+A157. Around 8–10 slides is usually enough. You can follow the 10/20/30 Rule: 10 slides, 20 minutes max, 30-point font or bigger.
+Q158. What should each slide contain?
+A158. Each slide should focus on one idea: problem, solution, market, team, demo preview, etc. Use titles that clearly guide the audience.
+Q159. Is it okay to use a template or should we design from scratch?
+A159. Using a clean, modern template is totally fine — it saves time and keeps things consistent. Just make sure it fits your project’s tone.
+Q160. Can we include animations or transitions in the slides?
+A160. Only if they’re subtle and purposeful. Avoid flashy effects that distract from your message.
+Q161. What kind of visuals work best in a pitch?
+A161. Use screenshots, diagrams, icons, or mockups — anything that helps explain your idea visually. People remember images better than text.
+Q162. Should we write full sentences or bullet points?
+A162. Bullet points or short phrases work best. You should speak the full explanation — don’t put everything on the slide.
+Q163. Do we need to show the tech stack in the pitch slides?
+A163. Only if it’s important for your audience to understand the value. If not, skip or move it to Q&A or appendix slides.
+Q164. Can we include a short video or screen recording instead of live demo?
+A164. Yes, and it’s often safer! Just make sure the video is short, clear, and well timed with your narration.
+Q165. What tools can we use to create good slides?
+A165. Google Slides, PowerPoint, Canva, or Keynote — all work great. Choose what’s easy and lets you collaborate with your team.
+Q166. We’ve built a lot of features. Should we show all of them in the demo?
+A166. No — focus on the most important feature that best demonstrates your value. Quality over quantity. Too much can confuse or overwhelm your audience.
+Q167. How do we choose what to include in the pitch?
+A167. Ask yourself: what’s the core of our idea? What makes it special? Build the pitch around that. Leave extra details for Q&A.
+Q168. Should we explain every technical detail?
+A168. Only if it’s critical to understanding your value. Most of the time, high-level explanation is enough. Save deep tech talk for technical Q&A.
+Q169. What if our product has a lot of small improvements — should we list them all?
+A169. No, instead show how the overall experience is better. Use one example to represent the improvement, not a checklist.
+Q170. We’re worried we might forget to show something important. Any tips?
+A170. Create a clear demo script or outline. Rehearse it several times. Prioritize showing one full flow rather than jumping around features.
+Q171. Should we plan our demo like a story?
+A171. Yes! Think of the user’s journey: problem → using your solution → result. That helps keep the flow focused and relatable.
+Q172. Is it better to show more features or to go deeper into one feature?
+A172. Usually going deeper into one key feature is more impactful — it shows depth, not just breadth.
+Q173. Can we mention features we didn’t have time to build yet?
+A173. Yes, briefly — in the “next steps” or “future work” part. Just don’t dwell on them or apologize for what’s missing.
+Q174. What if our coolest feature is not fully working yet?
+A174. Consider showing a prototype, mockup, or video. If it’s unstable live, it’s better to simulate than risk a crash during the demo.
+Q175. Should we tell the audience what to focus on while watching the demo?
+A175. Yes! Guide their attention — say things like “Notice how simple the workflow is here” or “This part is where we add unique value.”
+Q176. What if I don’t understand a question during the Q&A?
+A176. It’s okay to ask for clarification! Say something like, “Could you please repeat or rephrase that?” It shows you’re engaged and respectful.
+Q177. What if I know the answer but I’m afraid I’ll mess up when speaking?
+A177. Take a breath and speak slowly. You know your project — trust that. It’s better to speak simply and clearly than to try to sound perfect.
+Q178. Should we plan who answers which types of questions?
+A178. Yes! Before the presentation, decide who handles tech, user, business, or design questions. It avoids awkward silence or overlap.
+Q179. What if two people in the team start answering at the same time?
+A179. Just smile and quickly defer — “Go ahead, you take this one.” It happens — what matters is how you recover and stay coordinated.
+Q180. Is it okay to say “I don’t know”?
+A180. Yes — honesty is better than making things up. Just follow with: “We’ll look into that,” or “That’s a great point — we hadn’t considered it yet.”
+Q181. What if someone asks a question we already answered in the pitch?
+A181. Don’t get defensive — just briefly repeat or reframe the answer: “Yes, as we mentioned earlier, we…”
+Q182. Can we say “That’s not in scope for our project”?
+A182. Yes, but say it respectfully. Try: “That’s a great idea, though it’s beyond the scope of what we focused on this semester.”
+Q183. What if the question feels critical or negative?
+A183. Stay calm and professional. Often, it’s meant to test your thinking, not attack you. Acknowledge the concern and respond constructively.
+Q184. Should we prepare answers in advance?
+A184. Absolutely! Brainstorm possible questions and practice your answers as a team — it boosts confidence and reduces surprises.
+Q185. What if someone else on the team gives a wrong answer?
+A185. Don’t correct them harshly. Wait for your turn or gently add, “To add to that…” and give the correct version. Team unity matters more than being right.
+Q196. How should we end our pitch or demo?
+A196. End with a clear, confident summary of your message. You can say something like, “That’s our solution — thank you, and we’re happy to take questions.” Make sure the audience knows you’ve finished.
+Q197. Should we include a call to action at the end?
+A197. Yes — especially if your pitch includes an “ask.” For example, “We’re looking for feedback and potential pilot users — let us know if you’re interested.”
+Q198. What’s a good way to make our ending more memorable?
+A198. Try ending with a short, impactful line — a powerful quote, a bold statement, or a return to the problem you opened with. It helps close the loop emotionally.
+Q199. Can we just say “thank you” and be done?
+A199. You can, but it’s stronger to say “thank you” after a final sentence that reinforces your message. For example: “We believe this solution can truly change how students manage teamwork — thank you!”
+Q200. Should we rehearse the closing line too?
+A200. Absolutely. A well-practiced ending gives you confidence and leaves a strong final impression. Don’t wing it — make it count.
+Q201. What if someone interrupts or asks a question before we finish?
+A201. Stay polite and say, “We’ll be happy to answer that in a moment — just let us finish this last part.” Then wrap up as planned.
+Q202. Can we end the pitch with a question for the audience?
+A202. Yes, if it fits your tone. Something like “Have you ever faced this problem?” or “Would you try this solution yourself?” can be engaging.
+Q203. Should all team members say something in the closing?
+A203. Not necessary, but one person can close for everyone. If you want to include the team, you can all say “thank you” together or introduce yourselves briefly at the end.
+Q204. What’s more important — the final words or the final slide?
+A204. They work together. Make sure your last slide supports your message — keep it clean, branded, and aligned with your closing line.
+Q205. Can we show contact info or QR code at the end?
+A205. Yes! It’s a great idea — especially if you want feedback or to be remembered. Just don’t clutter the slide — keep it simple.

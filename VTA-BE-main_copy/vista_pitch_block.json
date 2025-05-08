@@ -1,0 +1,2735 @@
+{
+  "context": "pitch",
+  "qas": [
+    {
+      "id": "pitch_001",
+      "is_impossible": false,
+      "question": "What is the main goal of Sprint 5?",
+      "answers": [
+        {
+          "text": [
+            "To prepare the demo for stakeholders."
+          ],
+          "answer_start": 0,
+          "answer_end": 37
+        }
+      ]
+    },
+    {
+      "id": "pitch_002",
+      "is_impossible": false,
+      "question": "Who should be invited to the demo presentation?",
+      "answers": [
+        {
+          "text": [
+            "At a minimum, instructors should be invited."
+          ],
+          "answer_start": 0,
+          "answer_end": 44
+        }
+      ]
+    },
+    {
+      "id": "pitch_003",
+      "is_impossible": false,
+      "question": "What should the demo presentation include?",
+      "answers": [
+        {
+          "text": [
+            "A concept description, a running website, stakeholder interaction, content preview, development process, and next steps."
+          ],
+          "answer_start": 0,
+          "answer_end": 120
+        }
+      ]
+    },
+    {
+      "id": "pitch_004",
+      "is_impossible": false,
+      "question": "What is the 'Tribe assignment' in the context of Sprint 5?",
+      "answers": [
+        {
+          "text": [
+            "It refers to presenting the project demo to the stakeholder group (the "tribe")."
+          ],
+          "answer_start": 0,
+          "answer_end": 80
+        }
+      ]
+    },
+    {
+      "id": "pitch_005",
+      "is_impossible": false,
+      "question": "Why is talking to stakeholders emphasized in Sprint 5?",
+      "answers": [
+        {
+          "text": [
+            "Because getting feedback and buy-in from stakeholders is crucial for project success."
+          ],
+          "answer_start": 0,
+          "answer_end": 85
+        }
+      ]
+    },
+    {
+      "id": "pitch_006",
+      "is_impossible": false,
+      "question": "What two components are essential to prepare for the stakeholder interaction?",
+      "answers": [
+        {
+          "text": [
+            "A pitch and a demo."
+          ],
+          "answer_start": 0,
+          "answer_end": 19
+        }
+      ]
+    },
+    {
+      "id": "pitch_007",
+      "is_impossible": false,
+      "question": "What is a pitch and how long should it take?",
+      "answers": [
+        {
+          "text": [
+            "A pitch is a short presentation lasting 2–5 minutes."
+          ],
+          "answer_start": 0,
+          "answer_end": 52
+        }
+      ]
+    },
+    {
+      "id": "pitch_008",
+      "is_impossible": false,
+      "question": "What are the characteristics of a good pitch?",
+      "answers": [
+        {
+          "text": [
+            "It should be simple, fun, insightful, and explain why people should support you."
+          ],
+          "answer_start": 0,
+          "answer_end": 80
+        }
+      ]
+    },
+    {
+      "id": "pitch_009",
+      "is_impossible": false,
+      "question": "Why should the pitch be fun and insightful?",
+      "answers": [
+        {
+          "text": [
+            "To engage the audience and clearly communicate the value of your idea."
+          ],
+          "answer_start": 0,
+          "answer_end": 70
+        }
+      ]
+    },
+    {
+      "id": "pitch_010",
+      "is_impossible": false,
+      "question": "What is the purpose of a pitch in a demo setting?",
+      "answers": [
+        {
+          "text": [
+            "To make stakeholders understand and support your project, possibly with funding or feedback."
+          ],
+          "answer_start": 0,
+          "answer_end": 92
+        }
+      ]
+    },
+    {
+      "id": "pitch_011",
+      "is_impossible": false,
+      "question": "How should a pitch start?",
+      "answers": [
+        {
+          "text": [
+            "With a question that addresses a problem from the customer's perspective."
+          ],
+          "answer_start": 0,
+          "answer_end": 73
+        }
+      ]
+    },
+    {
+      "id": "pitch_012",
+      "is_impossible": false,
+      "question": "What is the purpose of explaining the problem in a pitch?",
+      "answers": [
+        {
+          "text": [
+            "To show the need or "why" behind your solution."
+          ],
+          "answer_start": 0,
+          "answer_end": 47
+        }
+      ]
+    },
+    {
+      "id": "pitch_013",
+      "is_impossible": false,
+      "question": "What should the solution part of a pitch include?",
+      "answers": [
+        {
+          "text": [
+            "What your solution is, how it works, and how it creates a paradigm shift."
+          ],
+          "answer_start": 0,
+          "answer_end": 73
+        }
+      ]
+    },
+    {
+      "id": "pitch_014",
+      "is_impossible": false,
+      "question": "What is a paradigm shift in the context of a pitch?",
+      "answers": [
+        {
+          "text": [
+            "A significant change in approach or underlying assumptions."
+          ],
+          "answer_start": 0,
+          "answer_end": 59
+        }
+      ]
+    },
+    {
+      "id": "pitch_015",
+      "is_impossible": false,
+      "question": "Why is market and competitor analysis important in a pitch?",
+      "answers": [
+        {
+          "text": [
+            "To show your position in the market and the size of the opportunity."
+          ],
+          "answer_start": 0,
+          "answer_end": 68
+        }
+      ]
+    },
+    {
+      "id": "pitch_016",
+      "is_impossible": false,
+      "question": "What should you include in a 2D market/competitor graph?",
+      "answers": [
+        {
+          "text": [
+            "Relevant axes to show your unique positioning among competitors."
+          ],
+          "answer_start": 0,
+          "answer_end": 64
+        }
+      ]
+    },
+    {
+      "id": "pitch_017",
+      "is_impossible": false,
+      "question": "Why should you show the team in a pitch?",
+      "answers": [
+        {
+          "text": [
+            "To demonstrate the people behind the project and their credibility."
+          ],
+          "answer_start": 0,
+          "answer_end": 67
+        }
+      ]
+    },
+    {
+      "id": "pitch_018",
+      "is_impossible": false,
+      "question": "What's recommended to include when presenting the team?",
+      "answers": [
+        {
+          "text": [
+            "At least 2 founders and their pictures."
+          ],
+          "answer_start": 0,
+          "answer_end": 39
+        }
+      ]
+    },
+    {
+      "id": "pitch_019",
+      "is_impossible": false,
+      "question": "What does the "hockey stick" graph represent in a business case?",
+      "answers": [
+        {
+          "text": [
+            "It illustrates projected growth over time, typically steep after 3 years."
+          ],
+          "answer_start": 0,
+          "answer_end": 73
+        }
+      ]
+    },
+    {
+      "id": "pitch_020",
+      "is_impossible": false,
+      "question": "Why shouldn't you promise anything before 3 years in the business case?",
+      "answers": [
+        {
+          "text": [
+            "To set realistic expectations and avoid overpromising."
+          ],
+          "answer_start": 0,
+          "answer_end": 54
+        }
+      ]
+    },
+    {
+      "id": "pitch_021",
+      "is_impossible": false,
+      "question": "What is a unique insight in a pitch?",
+      "answers": [
+        {
+          "text": [
+            "A special understanding or perspective that gives your team an edge."
+          ],
+          "answer_start": 0,
+          "answer_end": 68
+        }
+      ]
+    },
+    {
+      "id": "pitch_022",
+      "is_impossible": false,
+      "question": "What should be included in the "Ask" part of a pitch?",
+      "answers": [
+        {
+          "text": [
+            "A clear request for money, feedback, or advertisement support."
+          ],
+          "answer_start": 0,
+          "answer_end": 62
+        }
+      ]
+    },
+    {
+      "id": "pitch_023",
+      "is_impossible": false,
+      "question": "What makes a demo compelling?",
+      "answers": [
+        {
+          "text": [
+            "It clearly answers the problem statement and functions smoothly."
+          ],
+          "answer_start": 0,
+          "answer_end": 64
+        }
+      ]
+    },
+    {
+      "id": "pitch_024",
+      "is_impossible": false,
+      "question": "What content should already be included in the demo?",
+      "answers": [
+        {
+          "text": [
+            "Some initial content to showcase during stakeholder interaction."
+          ],
+          "answer_start": 0,
+          "answer_end": 64
+        }
+      ]
+    },
+    {
+      "id": "pitch_025",
+      "is_impossible": false,
+      "question": "Why is a short and working demo important?",
+      "answers": [
+        {
+          "text": [
+            "Because stakeholders have limited time and expect to see real results."
+          ],
+          "answer_start": 0,
+          "answer_end": 70
+        }
+      ]
+    },
+    {
+      "id": "pitch_026",
+      "is_impossible": false,
+      "question": "What should the demo presentation cover?",
+      "answers": [
+        {
+          "text": [
+            "The concept, the running product, the process, and the next steps.\nConclusion – What Students Should Do"
+          ],
+          "answer_start": 0,
+          "answer_end": 103
+        }
+      ]
+    },
+    {
+      "id": "pitch_027",
+      "is_impossible": false,
+      "question": "What are students expected to do after learning this material?",
+      "answers": [
+        {
+          "text": [
+            "Prepare their own pitch and demo for stakeholder feedback."
+          ],
+          "answer_start": 0,
+          "answer_end": 58
+        }
+      ]
+    },
+    {
+      "id": "pitch_028",
+      "is_impossible": false,
+      "question": "Why is stakeholder demo preparation emphasized in the course?",
+      "answers": [
+        {
+          "text": [
+            "Because it reflects real-world project validation and presentation skills."
+          ],
+          "answer_start": 0,
+          "answer_end": 74
+        }
+      ]
+    },
+    {
+      "id": "pitch_029",
+      "is_impossible": false,
+      "question": "What exactly is Sprint 5 about? I'm a bit confused.",
+      "answers": [
+        {
+          "text": [
+            "Sprint 5 is focused on preparing a demo of your project for stakeholders, where you show progress and get feedback."
+          ],
+          "answer_start": 0,
+          "answer_end": 115
+        }
+      ]
+    },
+    {
+      "id": "pitch_030",
+      "is_impossible": false,
+      "question": "Who are the stakeholders we're supposed to present to?",
+      "answers": [
+        {
+          "text": [
+            "At minimum, your instructors. But ideally, real or potential users, mentors, or anyone who could benefit from or evaluate your project."
+          ],
+          "answer_start": 0,
+          "answer_end": 135
+        }
+      ]
+    },
+    {
+      "id": "pitch_031",
+      "is_impossible": false,
+      "question": "What does "Tribe assignment" mean? I don't remember this term.",
+      "answers": [
+        {
+          "text": [
+            "It's just the name for this activity where your project team (or "tribe") presents the demo to the stakeholders."
+          ],
+          "answer_start": 0,
+          "answer_end": 112
+        }
+      ]
+    },
+    {
+      "id": "pitch_032",
+      "is_impossible": false,
+      "question": "What is a pitch? Is it like a sales thing?",
+      "answers": [
+        {
+          "text": [
+            "Yes, kind of. A pitch is a short, persuasive talk (2–5 minutes) where you explain your idea, why it matters, and what you need."
+          ],
+          "answer_start": 0,
+          "answer_end": 127
+        }
+      ]
+    },
+    {
+      "id": "pitch_033",
+      "is_impossible": false,
+      "question": "Are we doing the pitch alone or in teams?",
+      "answers": [
+        {
+          "text": [
+            "You can do it as a team, but one person usually speaks while others support visually or during Q&A."
+          ],
+          "answer_start": 0,
+          "answer_end": 99
+        }
+      ]
+    },
+    {
+      "id": "pitch_034",
+      "is_impossible": false,
+      "question": "Can we use slides in the pitch? Or is it just talking?",
+      "answers": [
+        {
+          "text": [
+            "Yes, you can use slides. Keep them minimal and clear. The focus is on what you say."
+          ],
+          "answer_start": 0,
+          "answer_end": 83
+        }
+      ]
+    },
+    {
+      "id": "pitch_035",
+      "is_impossible": false,
+      "question": "Do we have to memorize the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Not necessarily, but you should know it well enough to speak fluently without reading."
+          ],
+          "answer_start": 0,
+          "answer_end": 86
+        }
+      ]
+    },
+    {
+      "id": "pitch_036",
+      "is_impossible": false,
+      "question": "What is a "paradigm shift"? That sounds complicated.",
+      "answers": [
+        {
+          "text": [
+            "It means your solution changes the way people normally do things — like a big improvement or new approach."
+          ],
+          "answer_start": 0,
+          "answer_end": 106
+        }
+      ]
+    },
+    {
+      "id": "pitch_037",
+      "is_impossible": false,
+      "question": "What does "job-to-be-done" mean?",
+      "answers": [
+        {
+          "text": [
+            "It's the task or need your user wants to solve. You're showing that your product helps them get that job done better."
+          ],
+          "answer_start": 0,
+          "answer_end": 117
+        }
+      ]
+    },
+    {
+      "id": "pitch_038",
+      "is_impossible": false,
+      "question": "What does (0/1/2) next to each item mean?",
+      "answers": [
+        {
+          "text": [
+            "That's the grading scale — 0 means missing, 1 is partial, and 2 means well done. Each demo component is scored like that."
+          ],
+          "answer_start": 0,
+          "answer_end": 121
+        }
+      ]
+    },
+    {
+      "id": "pitch_039",
+      "is_impossible": false,
+      "question": "Will we get individual grades or group grades?",
+      "answers": [
+        {
+          "text": [
+            "Usually group grades, but sometimes instructors adjust based on individual contributions."
+          ],
+          "answer_start": 0,
+          "answer_end": 89
+        }
+      ]
+    },
+    {
+      "id": "pitch_040",
+      "is_impossible": false,
+      "question": "What if our demo isn't working yet? Can we still present?",
+      "answers": [
+        {
+          "text": [
+            "Yes, but you need to show at least some working part or simulate it. Be honest and explain your progress."
+          ],
+          "answer_start": 0,
+          "answer_end": 105
+        }
+      ]
+    },
+    {
+      "id": "pitch_041",
+      "is_impossible": false,
+      "question": "What does "stakeholders should try functionalities" mean?",
+      "answers": [
+        {
+          "text": [
+            "It means your demo should be interactive — let them click buttons, explore your app, etc., even if limited."
+          ],
+          "answer_start": 0,
+          "answer_end": 107
+        }
+      ]
+    },
+    {
+      "id": "pitch_042",
+      "is_impossible": false,
+      "question": "Can we do the pitch and demo online if our stakeholder can't come in person?",
+      "answers": [
+        {
+          "text": [
+            "Yes, online presentations are allowed if arranged in advance."
+          ],
+          "answer_start": 0,
+          "answer_end": 61
+        }
+      ]
+    },
+    {
+      "id": "pitch_043",
+      "is_impossible": false,
+      "question": "When is this due?",
+      "answers": [
+        {
+          "text": [
+            "Check the schedule in your course materials — usually at the end of Sprint 5."
+          ],
+          "answer_start": 0,
+          "answer_end": 77
+        }
+      ]
+    },
+    {
+      "id": "pitch_044",
+      "is_impossible": false,
+      "question": "Will we get feedback after the demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes, stakeholders and instructors will give you feedback right after your presentation or in writing later."
+          ],
+          "answer_start": 0,
+          "answer_end": 107
+        }
+      ]
+    },
+    {
+      "id": "pitch_045",
+      "is_impossible": false,
+      "question": "What does the "hockey stick" in the business case mean?",
+      "answers": [
+        {
+          "text": [
+            "It's a graph showing slow growth at first, then fast growth later — like a hockey stick curve."
+          ],
+          "answer_start": 0,
+          "answer_end": 94
+        }
+      ]
+    },
+    {
+      "id": "pitch_046",
+      "is_impossible": false,
+      "question": "Do we need to actually show a business model in the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Yes, just a basic version — how you think the product could earn money or bring value."
+          ],
+          "answer_start": 0,
+          "answer_end": 86
+        }
+      ]
+    },
+    {
+      "id": "pitch_047",
+      "is_impossible": false,
+      "question": "What if we don't have any real users yet?",
+      "answers": [
+        {
+          "text": [
+            "That's okay — describe your target users and how you plan to reach them."
+          ],
+          "answer_start": 0,
+          "answer_end": 72
+        }
+      ]
+    },
+    {
+      "id": "pitch_048",
+      "is_impossible": false,
+      "question": "Is the pitch and demo the same presentation or two different things?",
+      "answers": [
+        {
+          "text": [
+            "They're often presented together: first the pitch (2–5 min), then the live demo (5–10 min)."
+          ],
+          "answer_start": 0,
+          "answer_end": 91
+        }
+      ]
+    },
+    {
+      "id": "pitch_049",
+      "is_impossible": false,
+      "question": "Can you give an example of a good pitch?",
+      "answers": [
+        {
+          "text": [
+            "Yes! Ask your instructor or check the course platform — many past examples are available to review."
+          ],
+          "answer_start": 0,
+          "answer_end": 99
+        }
+      ]
+    },
+    {
+      "id": "pitch_050",
+      "is_impossible": false,
+      "question": "Can we get help or feedback before the real pitch/demo?",
+      "answers": [
+        {
+          "text": [
+            "Absolutely — that's encouraged! Ask your TA, mentor, or instructor to review your draft."
+          ],
+          "answer_start": 0,
+          "answer_end": 88
+        }
+      ]
+    },
+    {
+      "id": "pitch_051",
+      "is_impossible": false,
+      "question": "Do we need to include all the parts listed in the pitch structure?",
+      "answers": [
+        {
+          "text": [
+            "Ideally, yes — covering the problem, solution, market, team, business case, insight, and ask shows a complete picture."
+          ],
+          "answer_start": 0,
+          "answer_end": 118
+        }
+      ]
+    },
+    {
+      "id": "pitch_052",
+      "is_impossible": false,
+      "question": "What if we don't have any "unique insight"?",
+      "answers": [
+        {
+          "text": [
+            "Try to think about what you've learned during development or from your users — even a small insight is valuable."
+          ],
+          "answer_start": 0,
+          "answer_end": 112
+        }
+      ]
+    },
+    {
+      "id": "pitch_053",
+      "is_impossible": false,
+      "question": "How do we make our pitch "fun"?",
+      "answers": [
+        {
+          "text": [
+            "Use a personal story, humor, or surprising fact — just make sure it still fits the message and stays clear."
+          ],
+          "answer_start": 0,
+          "answer_end": 107
+        }
+      ]
+    },
+    {
+      "id": "pitch_054",
+      "is_impossible": false,
+      "question": "Is it okay to say "we're not sure yet" in the demo or pitch?",
+      "answers": [
+        {
+          "text": [
+            "Yes — honesty is appreciated if you follow it up with what you're doing to figure it out."
+          ],
+          "answer_start": 0,
+          "answer_end": 89
+        }
+      ]
+    },
+    {
+      "id": "pitch_055",
+      "is_impossible": false,
+      "question": "Can we skip the market graph if we don't have enough data?",
+      "answers": [
+        {
+          "text": [
+            "Yes, if you do not have enough data, you can skip the market graph. Just make sure to explain this in your presentation."
+          ],
+          "answer_start": 0,
+          "answer_end": 92
+        }
+      ]
+    },
+    {
+      "id": "pitch_056",
+      "is_impossible": false,
+      "question": "What if our project isn't "innovative enough"?",
+      "answers": [
+        {
+          "text": [
+            "Focus on how your idea solves the problem better or more accessibly than current options — that's also valuable."
+          ],
+          "answer_start": 0,
+          "answer_end": 112
+        }
+      ]
+    },
+    {
+      "id": "pitch_057",
+      "is_impossible": false,
+      "question": "How do we make sure our pitch fits in 5 minutes?",
+      "answers": [
+        {
+          "text": [
+            "Practice a few times with a timer and cut anything extra — focus on clarity and the core message."
+          ],
+          "answer_start": 0,
+          "answer_end": 97
+        }
+      ]
+    },
+    {
+      "id": "pitch_058",
+      "is_impossible": false,
+      "question": "Should we rehearse the demo too or just the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Definitely rehearse both — especially transitions and any technical parts that might break."
+          ],
+          "answer_start": 0,
+          "answer_end": 91
+        }
+      ]
+    },
+    {
+      "id": "pitch_059",
+      "is_impossible": false,
+      "question": "What's more important: the pitch or the demo?",
+      "answers": [
+        {
+          "text": [
+            "Both are important, but the demo often speaks louder — it shows what you've actually built."
+          ],
+          "answer_start": 0,
+          "answer_end": 91
+        }
+      ]
+    },
+    {
+      "id": "pitch_060",
+      "is_impossible": false,
+      "question": "Can we include screenshots if we can't show a live demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes, but make sure to explain what each part does and be transparent about what's real vs. planned."
+          ],
+          "answer_start": 0,
+          "answer_end": 99
+        }
+      ]
+    },
+    {
+      "id": "pitch_061",
+      "is_impossible": false,
+      "question": "Do we need to explain the tech stack in the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Not unless it's relevant to your value proposition — save technical details for Q&A or documentation."
+          ],
+          "answer_start": 0,
+          "answer_end": 101
+        }
+      ]
+    },
+    {
+      "id": "pitch_062",
+      "is_impossible": false,
+      "question": "What if we have multiple ideas — should we pitch them all?",
+      "answers": [
+        {
+          "text": [
+            "No — pick the strongest one and focus on telling its story clearly."
+          ],
+          "answer_start": 0,
+          "answer_end": 67
+        }
+      ]
+    },
+    {
+      "id": "pitch_063",
+      "is_impossible": false,
+      "question": "Should we design our pitch for investors or users?",
+      "answers": [
+        {
+          "text": [
+            "Focus on your stakeholders — for now, it's likely instructors or potential users, not actual investors."
+          ],
+          "answer_start": 0,
+          "answer_end": 103
+        }
+      ]
+    },
+    {
+      "id": "pitch_064",
+      "is_impossible": false,
+      "question": "Is it okay to make jokes in the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Yes, if they're appropriate and support your message — don't force them or distract from your point."
+          ],
+          "answer_start": 0,
+          "answer_end": 100
+        }
+      ]
+    },
+    {
+      "id": "pitch_065",
+      "is_impossible": false,
+      "question": "Do we need to write a script or can we just go with the flow?",
+      "answers": [
+        {
+          "text": [
+            "Writing a script helps at first, but you should try to speak naturally from memory during the real presentation."
+          ],
+          "answer_start": 0,
+          "answer_end": 112
+        }
+      ]
+    },
+    {
+      "id": "pitch_066",
+      "is_impossible": false,
+      "question": "When are the main lecture sessions scheduled?",
+      "answers": [
+        {
+          "text": [
+            "Every Friday from 09:45 to 11:00 and from 11:15 to 12:30 CET."
+          ],
+          "answer_start": 0,
+          "answer_end": 61
+        }
+      ]
+    },
+    {
+      "id": "pitch_067",
+      "is_impossible": false,
+      "question": "Are all lectures the same length?",
+      "answers": [
+        {
+          "text": [
+            "No, guest lectures will probably be shorter, around 1 hour."
+          ],
+          "answer_start": 0,
+          "answer_end": 59
+        }
+      ]
+    },
+    {
+      "id": "pitch_068",
+      "is_impossible": false,
+      "question": "Where can we find the time for TA sessions?",
+      "answers": [
+        {
+          "text": [
+            "You should check Campus Net for the current TA schedule."
+          ],
+          "answer_start": 0,
+          "answer_end": 56
+        }
+      ]
+    },
+    {
+      "id": "pitch_069",
+      "is_impossible": false,
+      "question": "How many semesters does the course last?",
+      "answers": [
+        {
+          "text": [
+            "The course spans over three terms (semesters)."
+          ],
+          "answer_start": 0,
+          "answer_end": 46
+        }
+      ]
+    },
+    {
+      "id": "pitch_070",
+      "is_impossible": false,
+      "question": "How many ECTS credits do we get in the first semester?",
+      "answers": [
+        {
+          "text": [
+            "5 ECTS credits, or 6 credits if you're at CIT."
+          ],
+          "answer_start": 0,
+          "answer_end": 46
+        }
+      ]
+    },
+    {
+      "id": "pitch_071",
+      "is_impossible": false,
+      "question": "And in the second semester?",
+      "answers": [
+        {
+          "text": [
+            "Also 5 ECTS credits, or 6 credits at CIT."
+          ],
+          "answer_start": 0,
+          "answer_end": 41
+        }
+      ]
+    },
+    {
+      "id": "pitch_072",
+      "is_impossible": false,
+      "question": "How about the third semester?",
+      "answers": [
+        {
+          "text": [
+            "Again, 5 ECTS credits, or 6 at CIT."
+          ],
+          "answer_start": 0,
+          "answer_end": 35
+        }
+      ]
+    },
+    {
+      "id": "pitch_073",
+      "is_impossible": false,
+      "question": "What does one ECTS credit represent in terms of workload?",
+      "answers": [
+        {
+          "text": [
+            "One ECTS credit corresponds to 25 to 30 working hours."
+          ],
+          "answer_start": 0,
+          "answer_end": 54
+        }
+      ]
+    },
+    {
+      "id": "pitch_074",
+      "is_impossible": false,
+      "question": "What's the difference between ECTS and CIT credits?",
+      "answers": [
+        {
+          "text": [
+            "CIT credits are used locally at your institution, but the ECTS system is European and more standardized internationally."
+          ],
+          "answer_start": 0,
+          "answer_end": 120
+        }
+      ]
+    },
+    {
+      "id": "pitch_075",
+      "is_impossible": false,
+      "question": "Do we get a grade for each semester separately?",
+      "answers": [
+        {
+          "text": [
+            "This depends on your local institution's grading system, but usually you're assessed each term based on project progress and deliverables."
+          ],
+          "answer_start": 0,
+          "answer_end": 138
+        }
+      ]
+    },
+    {
+      "id": "pitch_076",
+      "is_impossible": false,
+      "question": "What if I miss a lecture — is attendance mandatory?",
+      "answers": [
+        {
+          "text": [
+            "Attendance rules depend on the instructor, but it's strongly recommended to attend, especially because guest lectures are not always recorded."
+          ],
+          "answer_start": 0,
+          "answer_end": 142
+        }
+      ]
+    },
+    {
+      "id": "pitch_077",
+      "is_impossible": false,
+      "question": "Will the same TA be available throughout all three semesters?",
+      "answers": [
+        {
+          "text": [
+            "TA availability may change each term — check Campus Net for the current assignment."
+          ],
+          "answer_start": 0,
+          "answer_end": 83
+        }
+      ]
+    },
+    {
+      "id": "pitch_078",
+      "is_impossible": false,
+      "question": "Who are the teaching assistants for this course?",
+      "answers": [
+        {
+          "text": [
+            "Muhammad Khalid, Viktoriya Kananchuk, and Pavel Egorov."
+          ],
+          "answer_start": 0,
+          "answer_end": 55
+        }
+      ]
+    },
+    {
+      "id": "pitch_079",
+      "is_impossible": false,
+      "question": "What does Muhammad Khalid do?",
+      "answers": [
+        {
+          "text": [
+            "He is a PhD researcher and lecturer at Constructor University."
+          ],
+          "answer_start": 0,
+          "answer_end": 62
+        }
+      ]
+    },
+    {
+      "id": "pitch_080",
+      "is_impossible": false,
+      "question": "What's Viktoriya Kananchuk's role?",
+      "answers": [
+        {
+          "text": [
+            "She is a PhD researcher at Constructor Institute."
+          ],
+          "answer_start": 0,
+          "answer_end": 49
+        }
+      ]
+    },
+    {
+      "id": "pitch_081",
+      "is_impossible": false,
+      "question": "What's the background of Pavel Egorov?",
+      "answers": [
+        {
+          "text": [
+            "He is the Head of Educational Program at JetBrains."
+          ],
+          "answer_start": 0,
+          "answer_end": 51
+        }
+      ]
+    },
+    {
+      "id": "pitch_082",
+      "is_impossible": false,
+      "question": "Can we contact the TAs directly for help?",
+      "answers": [
+        {
+          "text": [
+            "Yes, but it's best to follow the communication guidelines from the course — usually via Campus Net or official email."
+          ],
+          "answer_start": 0,
+          "answer_end": 117
+        }
+      ]
+    },
+    {
+      "id": "pitch_083",
+      "is_impossible": false,
+      "question": "Will all three TAs be available every week?",
+      "answers": [
+        {
+          "text": [
+            "Not necessarily — their availability may vary, so check Campus Net for weekly updates."
+          ],
+          "answer_start": 0,
+          "answer_end": 86
+        }
+      ]
+    },
+    {
+      "id": "pitch_084",
+      "is_impossible": false,
+      "question": "Are the TAs grading our work or just helping us?",
+      "answers": [
+        {
+          "text": [
+            "TAs mainly support you, but they might also be involved in evaluating your presentations and progress."
+          ],
+          "answer_start": 0,
+          "answer_end": 102
+        }
+      ]
+    },
+    {
+      "id": "pitch_085",
+      "is_impossible": false,
+      "question": "Can I choose which TA to contact or ask questions to?",
+      "answers": [
+        {
+          "text": [
+            "Generally yes, but if a specific TA is assigned to your group, it's best to reach out to them first."
+          ],
+          "answer_start": 0,
+          "answer_end": 100
+        }
+      ]
+    },
+    {
+      "id": "pitch_086",
+      "is_impossible": false,
+      "question": "When does the course officially start?",
+      "answers": [
+        {
+          "text": [
+            "The first scheduled activity is team formation, which starts on February 21, 2025."
+          ],
+          "answer_start": 0,
+          "answer_end": 82
+        }
+      ]
+    },
+    {
+      "id": "pitch_087",
+      "is_impossible": false,
+      "question": "What happens on February 28?",
+      "answers": [
+        {
+          "text": [
+            "That's when the architecture phase begins."
+          ],
+          "answer_start": 0,
+          "answer_end": 42
+        }
+      ]
+    },
+    {
+      "id": "pitch_088",
+      "is_impossible": false,
+      "question": "What are we supposed to do during the "Teams formation" phase?",
+      "answers": [
+        {
+          "text": [
+            "You're expected to form your project team and choose a topic or direction to work on."
+          ],
+          "answer_start": 0,
+          "answer_end": 85
+        }
+      ]
+    },
+    {
+      "id": "pitch_089",
+      "is_impossible": false,
+      "question": "How long does the architecture phase last?",
+      "answers": [
+        {
+          "text": [
+            "It starts on February 28 and runs until March 14, 2025."
+          ],
+          "answer_start": 0,
+          "answer_end": 55
+        }
+      ]
+    },
+    {
+      "id": "pitch_090",
+      "is_impossible": false,
+      "question": "What are we doing during the architecture phase?",
+      "answers": [
+        {
+          "text": [
+            "You'll design the structure of your application — including planning features, technologies, and overall design."
+          ],
+          "answer_start": 0,
+          "answer_end": 112
+        }
+      ]
+    },
+    {
+      "id": "pitch_091",
+      "is_impossible": false,
+      "question": "When does the development phase start?",
+      "answers": [
+        {
+          "text": [
+            "Development begins on March 14, 2025."
+          ],
+          "answer_start": 0,
+          "answer_end": 37
+        }
+      ]
+    },
+    {
+      "id": "pitch_092",
+      "is_impossible": false,
+      "question": "How long does the development phase last?",
+      "answers": [
+        {
+          "text": [
+            "From March 14 until May 16, 2025."
+          ],
+          "answer_start": 0,
+          "answer_end": 33
+        }
+      ]
+    },
+    {
+      "id": "pitch_093",
+      "is_impossible": false,
+      "question": "What's the final goal of the development phase?",
+      "answers": [
+        {
+          "text": [
+            "To have your project portal ready and deployed by May 16, 2025."
+          ],
+          "answer_start": 0,
+          "answer_end": 63
+        }
+      ]
+    },
+    {
+      "id": "pitch_094",
+      "is_impossible": false,
+      "question": "Is all of this work done individually or in teams?",
+      "answers": [
+        {
+          "text": [
+            "It's group work — you'll collaborate with your team throughout the term."
+          ],
+          "answer_start": 0,
+          "answer_end": 72
+        }
+      ]
+    },
+    {
+      "id": "pitch_095",
+      "is_impossible": false,
+      "question": "How is our work graded throughout the term?",
+      "answers": [
+        {
+          "text": [
+            "Each sprint is graded equally — your performance in each phase contributes the same to your final evaluation."
+          ],
+          "answer_start": 0,
+          "answer_end": 109
+        }
+      ]
+    },
+    {
+      "id": "pitch_096",
+      "is_impossible": false,
+      "question": "What happens if we miss a sprint or fall behind?",
+      "answers": [
+        {
+          "text": [
+            "Falling behind can affect your group grade, so it's important to stay on track — speak to your TA if issues come up."
+          ],
+          "answer_start": 0,
+          "answer_end": 116
+        }
+      ]
+    },
+    {
+      "id": "pitch_097",
+      "is_impossible": false,
+      "question": "Are the dates on the timeline fixed or can they shift?",
+      "answers": [
+        {
+          "text": [
+            "These are planned dates for 2025 — major shifts are unlikely but possible in exceptional cases."
+          ],
+          "answer_start": 0,
+          "answer_end": 95
+        }
+      ]
+    },
+    {
+      "id": "pitch_098",
+      "is_impossible": false,
+      "question": "Do we have to deploy a real, working project by May 16?",
+      "answers": [
+        {
+          "text": [
+            "Yes — at least a basic functional version should be online and accessible to demonstrate your work."
+          ],
+          "answer_start": 0,
+          "answer_end": 99
+        }
+      ]
+    },
+    {
+      "id": "pitch_099",
+      "is_impossible": false,
+      "question": "How many sprints are there in this course?",
+      "answers": [
+        {
+          "text": [
+            "There are five sprints planned for the Spring term."
+          ],
+          "answer_start": 0,
+          "answer_end": 51
+        }
+      ]
+    },
+    {
+      "id": "pitch_100",
+      "is_impossible": false,
+      "question": "What is a sprint demo?",
+      "answers": [
+        {
+          "text": [
+            "It's a short presentation where teams show what they've completed during the sprint."
+          ],
+          "answer_start": 0,
+          "answer_end": 84
+        }
+      ]
+    },
+    {
+      "id": "pitch_101",
+      "is_impossible": false,
+      "question": "What is sprint planning?",
+      "answers": [
+        {
+          "text": [
+            "It's the session where you define the goals and tasks for the next sprint."
+          ],
+          "answer_start": 0,
+          "answer_end": 74
+        }
+      ]
+    },
+    {
+      "id": "pitch_102",
+      "is_impossible": false,
+      "question": "How often do we have sprint demos and planning?",
+      "answers": [
+        {
+          "text": [
+            "They usually happen every two weeks, often combined in the same session."
+          ],
+          "answer_start": 0,
+          "answer_end": 72
+        }
+      ]
+    },
+    {
+      "id": "pitch_103",
+      "is_impossible": false,
+      "question": "How many guest lectures are scheduled for this term?",
+      "answers": [
+        {
+          "text": [
+            "There are three guest lectures planned."
+          ],
+          "answer_start": 0,
+          "answer_end": 39
+        }
+      ]
+    },
+    {
+      "id": "pitch_104",
+      "is_impossible": false,
+      "question": "Who are the guest lecturers this semester?",
+      "answers": [
+        {
+          "text": [
+            "Yvonne-Anne Pignolet from Dfinity, and Sven Koos from ABB, plus one more on Dynamic Software Updates."
+          ],
+          "answer_start": 0,
+          "answer_end": 101
+        }
+      ]
+    },
+    {
+      "id": "pitch_105",
+      "is_impossible": false,
+      "question": "Are guest lectures mandatory?",
+      "answers": [
+        {
+          "text": [
+            "Attendance is highly recommended as they're part of the course experience."
+          ],
+          "answer_start": 0,
+          "answer_end": 74
+        }
+      ]
+    },
+    {
+      "id": "pitch_106",
+      "is_impossible": false,
+      "question": "What happens if a lecture is cancelled or rescheduled?",
+      "answers": [
+        {
+          "text": [
+            "Sometimes it's moved to a TA session, or skipped due to holidays like Good Friday."
+          ],
+          "answer_start": 0,
+          "answer_end": 82
+        }
+      ]
+    },
+    {
+      "id": "pitch_107",
+      "is_impossible": false,
+      "question": "What is the stakeholder demo?",
+      "answers": [
+        {
+          "text": [
+            "It's the final presentation where you show your completed project to instructors and external stakeholders."
+          ],
+          "answer_start": 0,
+          "answer_end": 107
+        }
+      ]
+    },
+    {
+      "id": "pitch_108",
+      "is_impossible": false,
+      "question": "Are there any sessions only for CIT students?",
+      "answers": [
+        {
+          "text": [
+            "Yes — the final two sessions on May 23 and May 30 are only for CIT students."
+          ],
+          "answer_start": 0,
+          "answer_end": 76
+        }
+      ]
+    },
+    {
+      "id": "pitch_109",
+      "is_impossible": false,
+      "question": "Do we have lectures every single week?",
+      "answers": [
+        {
+          "text": [
+            "Almost every week, but there are a few breaks for holidays or project work."
+          ],
+          "answer_start": 0,
+          "answer_end": 75
+        }
+      ]
+    },
+    {
+      "id": "pitch_110",
+      "is_impossible": false,
+      "question": "Is the guest lecture content included in exams or grading?",
+      "answers": [
+        {
+          "text": [
+            "Not directly, but they may influence your understanding and project thinking — so they are still important."
+          ],
+          "answer_start": 0,
+          "answer_end": 107
+        }
+      ]
+    },
+    {
+      "id": "pitch_111",
+      "is_impossible": false,
+      "question": "I'm preparing my first pitch and don't know where to start. Are there any frameworks I can follow?",
+      "answers": [
+        {
+          "text": [
+            "Yes, a widely used structure is the Problem–Solution–Why Now–Market–Team–Ask framework. It helps you clearly present your idea by addressing the problem you're solving, your solution, why it's timely, the market opportunity, your team's strengths, and what you're seeking from your audience."
+          ],
+          "answer_start": 0,
+          "answer_end": 291
+        }
+      ]
+    },
+    {
+      "id": "pitch_112",
+      "is_impossible": false,
+      "question": "I want my pitch to be engaging like a TED Talk. Any tips?",
+      "answers": [
+        {
+          "text": [
+            "Absolutely! The "Pitch Like a TED Talk" approach emphasizes storytelling, emotional connection, and clarity. Focus on a compelling narrative, use relatable examples, and keep your message concise and impactful."
+          ],
+          "answer_start": 0,
+          "answer_end": 210
+        }
+      ]
+    },
+    {
+      "id": "pitch_113",
+      "is_impossible": false,
+      "question": "How can I avoid overloading my slides with information?",
+      "answers": [
+        {
+          "text": [
+            "Follow the "One Slide, One Message" principle. Ensure each slide conveys a single, clear idea. Use visuals and minimal text to keep your audience focused and engaged."
+          ],
+          "answer_start": 0,
+          "answer_end": 166
+        }
+      ]
+    },
+    {
+      "id": "pitch_114",
+      "is_impossible": false,
+      "question": "Is there a guideline for the number of slides and presentation length?",
+      "answers": [
+        {
+          "text": [
+            "Yes, Guy Kawasaki's 10/20/30 Rule suggests using 10 slides, delivering your presentation in 20 minutes, and using a minimum 30-point font size to maintain readability and clarity."
+          ],
+          "answer_start": 0,
+          "answer_end": 179
+        }
+      ]
+    },
+    {
+      "id": "pitch_115",
+      "is_impossible": false,
+      "question": "Where can I learn more about these pitching methods?",
+      "answers": [
+        {
+          "text": [
+            "You can find resources online by searching for the specific frameworks. For example, look up articles and videos on the Problem–Solution–Why Now–Market–Team–Ask structure, TED Talk presentation techniques, the One Slide, One Message principle, and Guy Kawasaki's 10/20/30 Rule."
+          ],
+          "answer_start": 0,
+          "answer_end": 277
+        }
+      ]
+    },
+    {
+      "id": "pitch_116",
+      "is_impossible": false,
+      "question": "I have no idea how to make a pitch. Are there different ways to do it?",
+      "answers": [
+        {
+          "text": [
+            "Yes, there are several popular methods to structure a pitch. For example:\n* The Problem–Solution–Why Now–Market–Team–Ask framework (great for startups)\n* The TED Talk style, which uses storytelling and emotion\nThe One Slide, One Message principle (helps make your slides clear and focused)\n* The 10/20/30 Rule by Guy Kawasaki (10 slides, 20 minutes, 30 pt font)\n\nYou can choose the one that suits your style best — or combine them! Let me know if you want a quick explanation of any of these."
+          ],
+          "answer_start": 0,
+          "answer_end": 492
+        }
+      ]
+    },
+    {
+      "id": "pitch_117",
+      "is_impossible": false,
+      "question": "What's the easiest way to start building my pitch if I've never done one before?",
+      "answers": [
+        {
+          "text": [
+            "Start by thinking of a simple story: what problem are you solving and how? Then build around that using one of the common structures like the Problem–Solution–Ask method. Don't worry about slides at first — just try to explain your idea clearly in 1–2 minutes."
+          ],
+          "answer_start": 0,
+          "answer_end": 260
+        }
+      ]
+    },
+    {
+      "id": "pitch_118",
+      "is_impossible": false,
+      "question": "Do I have to follow a specific method to make my pitch?",
+      "answers": [
+        {
+          "text": [
+            "No, there's no single "correct" method — use whatever helps you tell your story clearly and confidently. That's what really matters."
+          ],
+          "answer_start": 0,
+          "answer_end": 132
+        }
+      ]
+    },
+    {
+      "id": "pitch_119",
+      "is_impossible": false,
+      "question": "I've never done a demo before. What is a demo exactly?",
+      "answers": [
+        {
+          "text": [
+            "A demo is a short, practical presentation of your product or prototype — you show how it works, what it solves, and why it's useful."
+          ],
+          "answer_start": 0,
+          "answer_end": 132
+        }
+      ]
+    },
+    {
+      "id": "pitch_120",
+      "is_impossible": false,
+      "question": "How is a demo different from a pitch?",
+      "answers": [
+        {
+          "text": [
+            "A pitch is more about telling the story behind your idea, while a demo is about showing it — you let people see or interact with the actual thing you've built."
+          ],
+          "answer_start": 0,
+          "answer_end": 159
+        }
+      ]
+    },
+    {
+      "id": "pitch_121",
+      "is_impossible": false,
+      "question": "Are there any popular ways to structure a good demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes! Many demos follow a "story-based flow":\n   1. Start with a problem\n   2. Show how a user would solve it with your product\n   3. Highlight the best or most unique part\n   4. End with a result or next step\n\nSome also use the "WOW-first" method: show something impressive right away to grab attention."
+          ],
+          "answer_start": 0,
+          "answer_end": 303
+        }
+      ]
+    },
+    {
+      "id": "pitch_122",
+      "is_impossible": false,
+      "question": "What makes a demo really good?",
+      "answers": [
+        {
+          "text": [
+            "A good demo is short, clear, and reliable. It tells a story, avoids bugs, and makes people go, "Oh, that's cool!""
+          ],
+          "answer_start": 0,
+          "answer_end": 113
+        }
+      ]
+    },
+    {
+      "id": "pitch_123",
+      "is_impossible": false,
+      "question": "What if my product isn't fully working yet?",
+      "answers": [
+        {
+          "text": [
+            "That's okay — you can show a part that works, use mockups, or even show a screen recording. Just be honest and explain what you've built so far."
+          ],
+          "answer_start": 0,
+          "answer_end": 144
+        }
+      ]
+    },
+    {
+      "id": "pitch_124",
+      "is_impossible": false,
+      "question": "Do I have to speak during the demo, or can I just click through it?",
+      "answers": [
+        {
+          "text": [
+            "It's best to talk while showing — explain what you're doing and why. Think of it as giving a short guided tour of your project."
+          ],
+          "answer_start": 0,
+          "answer_end": 127
+        }
+      ]
+    },
+    {
+      "id": "pitch_125",
+      "is_impossible": false,
+      "question": "Can you give me an easy way to start preparing my demo?",
+      "answers": [
+        {
+          "text": [
+            "Sure! Here's a simple plan:\n      1. Pick one user problem\n      2. Show how your product solves it\nPractice clicking through that flow\n      3. Time yourself — aim for 2–3 minutes\n\nAdd your voice and you've got a demo!"
+          ],
+          "answer_start": 0,
+          "answer_end": 219
+        }
+      ]
+    },
+    {
+      "id": "pitch_126",
+      "is_impossible": false,
+      "question": "Are there tools or templates to help make a demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes — you can use tools like Loom (for screen recording), Figma (for UI mockups), or live browser setups. But sometimes even just a working webpage and good narration are enough."
+          ],
+          "answer_start": 0,
+          "answer_end": 178
+        }
+      ]
+    },
+    {
+      "id": "pitch_127",
+      "is_impossible": false,
+      "question": "What should I avoid in a demo?",
+      "answers": [
+        {
+          "text": [
+            "Avoid trying to show too much, relying on unstable code, or reading from a script word-for-word. Also avoid rushing — go slow and clear."
+          ],
+          "answer_start": 0,
+          "answer_end": 136
+        }
+      ]
+    },
+    {
+      "id": "pitch_128",
+      "is_impossible": false,
+      "question": "Where can I find examples of really good startup pitches?",
+      "answers": [
+        {
+          "text": [
+            "A great place to start is the Y Combinator Demo Day. Startups pitch their ideas in just 2 minutes — concise, clear, and often very impressive. You can find recordings of Demo Days on YouTube and study how they communicate their value fast."
+          ],
+          "answer_start": 0,
+          "answer_end": 239
+        }
+      ]
+    },
+    {
+      "id": "pitch_129",
+      "is_impossible": false,
+      "question": "What about examples of impressive demos?",
+      "answers": [
+        {
+          "text": [
+            "Check out the TechCrunch Disrupt Startup Battlefield. Startups present live demos to expert panels — it's a great way to see how real products are introduced under pressure."
+          ],
+          "answer_start": 0,
+          "answer_end": 173
+        }
+      ]
+    },
+    {
+      "id": "pitch_130",
+      "is_impossible": false,
+      "question": "Are there any companies that are known for doing amazing live product demos?",
+      "answers": [
+        {
+          "text": [
+            "Yes! Companies like Figma, Notion, and Stripe are famous for clean, user-focused demos. They often show exactly how their product fits into real workflows — simple but powerful."
+          ],
+          "answer_start": 0,
+          "answer_end": 177
+        }
+      ]
+    },
+    {
+      "id": "pitch_131",
+      "is_impossible": false,
+      "question": "I want to learn how to present like a pro — any schools or methods I can look at?",
+      "answers": [
+        {
+          "text": [
+            "Yes — look at IDEO and Stanford d.school. They teach how to use storytelling, design thinking, and empathy in presentations. Their materials and case studies are publicly available and incredibly helpful."
+          ],
+          "answer_start": 0,
+          "answer_end": 204
+        }
+      ]
+    },
+    {
+      "id": "pitch_132",
+      "is_impossible": false,
+      "question": "Do any of these demos or pitches use special techniques or storytelling styles?",
+      "answers": [
+        {
+          "text": [
+            "Definitely! Many of the best presenters use storytelling, show a clear "before and after" transformation, and build tension around the problem. Guy Kawasaki's presentations are also a masterclass in clarity and brevity."
+          ],
+          "answer_start": 0,
+          "answer_end": 219
+        }
+      ]
+    },
+    {
+      "id": "pitch_133",
+      "is_impossible": false,
+      "question": "I get super nervous before presentations. Is that normal?",
+      "answers": [
+        {
+          "text": [
+            "Yes, it's completely normal — even experienced speakers get nervous. A bit of adrenaline can actually help you focus. The key is to prepare and practice so you feel more in control."
+          ],
+          "answer_start": 0,
+          "answer_end": 181
+        }
+      ]
+    },
+    {
+      "id": "pitch_134",
+      "is_impossible": false,
+      "question": "What can I do to calm down before presenting?",
+      "answers": [
+        {
+          "text": [
+            "Try deep breathing, stretching, or even a short walk. Some people use power poses or mindfulness techniques. Avoid caffeine right before your presentation."
+          ],
+          "answer_start": 0,
+          "answer_end": 155
+        }
+      ]
+    },
+    {
+      "id": "pitch_135",
+      "is_impossible": false,
+      "question": "What if I forget what to say during the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Don't panic. Take a pause, breathe, and try to continue from the last thing you remember. You can also keep a small note with keywords to guide you — it's totally okay."
+          ],
+          "answer_start": 0,
+          "answer_end": 168
+        }
+      ]
+    },
+    {
+      "id": "pitch_136",
+      "is_impossible": false,
+      "question": "Can I read from a script if I'm too scared to speak freely?",
+      "answers": [
+        {
+          "text": [
+            "It's better to practice until you can speak naturally. Reading from a script can sound robotic and lose the audience. Try to memorize the flow, not the exact words."
+          ],
+          "answer_start": 0,
+          "answer_end": 164
+        }
+      ]
+    },
+    {
+      "id": "pitch_137",
+      "is_impossible": false,
+      "question": "What if someone asks a question and I don't know the answer?",
+      "answers": [
+        {
+          "text": [
+            "Be honest. Say something like, "That's a good question — I'll have to look into that." It's better than guessing. You're not expected to know everything."
+          ],
+          "answer_start": 0,
+          "answer_end": 153
+        }
+      ]
+    },
+    {
+      "id": "pitch_138",
+      "is_impossible": false,
+      "question": "How do I stop my voice from shaking during the presentation?",
+      "answers": [
+        {
+          "text": [
+            "Practice speaking out loud beforehand, breathe deeply before you begin, and focus on your message, not on yourself. Confidence grows with repetition."
+          ],
+          "answer_start": 0,
+          "answer_end": 149
+        }
+      ]
+    },
+    {
+      "id": "pitch_139",
+      "is_impossible": false,
+      "question": "Is it okay to be nervous during the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Absolutely. Nerves mean you care. The audience won't notice your fear as much as you think — they're rooting for you more than judging you."
+          ],
+          "answer_start": 0,
+          "answer_end": 139
+        }
+      ]
+    },
+    {
+      "id": "pitch_140",
+      "is_impossible": false,
+      "question": "I hate public speaking. Can someone else in my team do it?",
+      "answers": [
+        {
+          "text": [
+            "You can delegate, but it's a great learning opportunity. Even saying one part or introducing your team can build confidence over time. Try to push yourself a bit."
+          ],
+          "answer_start": 0,
+          "answer_end": 162
+        }
+      ]
+    },
+    {
+      "id": "pitch_141",
+      "is_impossible": false,
+      "question": "Should I try to make jokes to feel less nervous?",
+      "answers": [
+        {
+          "text": [
+            "If humor feels natural to you — yes! But don't force it. A warm smile and speaking with genuine energy often works better than a rehearsed joke."
+          ],
+          "answer_start": 0,
+          "answer_end": 144
+        }
+      ]
+    },
+    {
+      "id": "pitch_142",
+      "is_impossible": false,
+      "question": "How do I recover if I make a mistake during the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Just acknowledge it calmly and move on. Most people won't notice small errors — what matters is how you continue."
+          ],
+          "answer_start": 0,
+          "answer_end": 113
+        }
+      ]
+    },
+    {
+      "id": "pitch_143",
+      "is_impossible": false,
+      "question": "I feel awkward presenting in English. What can I do?",
+      "answers": [
+        {
+          "text": [
+            "Focus on clear, simple language. Practice with a friend or record yourself. The goal isn't perfect grammar — it's communication. Your message is more important than perfect words."
+          ],
+          "answer_start": 0,
+          "answer_end": 179
+        }
+      ]
+    },
+    {
+      "id": "pitch_144",
+      "is_impossible": false,
+      "question": "How can I practice so I feel more confident?",
+      "answers": [
+        {
+          "text": [
+            "Practice out loud — alone, in front of a mirror, or with a friend. Record yourself and watch it back. Repetition builds comfort and flow."
+          ],
+          "answer_start": 0,
+          "answer_end": 137
+        }
+      ]
+    },
+    {
+      "id": "pitch_145",
+      "is_impossible": false,
+      "question": "I don't feel confident about my project — what if people don't like it?",
+      "answers": [
+        {
+          "text": [
+            "That's okay. You're not presenting perfection — you're showing progress and ideas. Focus on what you've learned and built. Confidence comes from owning your work, not from having all the answers."
+          ],
+          "answer_start": 0,
+          "answer_end": 195
+        }
+      ]
+    },
+    {
+      "id": "pitch_146",
+      "is_impossible": false,
+      "question": "Does one person have to do the entire pitch?",
+      "answers": [
+        {
+          "text": [
+            "Not at all — the pitch can be shared. One person can open, another can explain the solution, and someone else can close. Just make sure the flow is smooth and everyone knows their part."
+          ],
+          "answer_start": 0,
+          "answer_end": 185
+        }
+      ]
+    },
+    {
+      "id": "pitch_147",
+      "is_impossible": false,
+      "question": "How do we decide who presents what in our team?",
+      "answers": [
+        {
+          "text": [
+            "Think about each person's strengths. Who's confident speaking? Who knows the tech side best? Assign parts based on comfort and expertise — and support each other."
+          ],
+          "answer_start": 0,
+          "answer_end": 162
+        }
+      ]
+    },
+    {
+      "id": "pitch_148",
+      "is_impossible": false,
+      "question": "What if one team member wants to do the whole thing alone?",
+      "answers": [
+        {
+          "text": [
+            "That might work if the rest agree, but this is a team project. Everyone should be involved at least a little — it shows collaboration and shared effort."
+          ],
+          "answer_start": 0,
+          "answer_end": 152
+        }
+      ]
+    },
+    {
+      "id": "pitch_149",
+      "is_impossible": false,
+      "question": "Should the person who did most of the coding also do the demo?",
+      "answers": [
+        {
+          "text": [
+            "Not necessarily. The best demo presenter is someone who can explain things clearly, not just the one who built it. You can help each other rehearse."
+          ],
+          "answer_start": 0,
+          "answer_end": 148
+        }
+      ]
+    },
+    {
+      "id": "pitch_150",
+      "is_impossible": false,
+      "question": "Can we switch speakers between the pitch and the demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes! One person can do the pitch, and another can lead the demo. Just make sure the transition is smooth and clear."
+          ],
+          "answer_start": 0,
+          "answer_end": 115
+        }
+      ]
+    },
+    {
+      "id": "pitch_151",
+      "is_impossible": false,
+      "question": "What if we all want to speak, but the time is short?",
+      "answers": [
+        {
+          "text": [
+            "Choose 1–2 speakers for the main parts and let others take smaller sections or Q&A. It's better to have a strong, focused delivery than squeeze in everyone."
+          ],
+          "answer_start": 0,
+          "answer_end": 156
+        }
+      ]
+    },
+    {
+      "id": "pitch_152",
+      "is_impossible": false,
+      "question": "Should we assign someone to handle Q&A after the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Yes, that's smart. Decide who answers which types of questions — tech, design, user side, etc. That way, you won't stumble or talk over each other."
+          ],
+          "answer_start": 0,
+          "answer_end": 147
+        }
+      ]
+    },
+    {
+      "id": "pitch_153",
+      "is_impossible": false,
+      "question": "What if someone in our team is too nervous to speak?",
+      "answers": [
+        {
+          "text": [
+            "They can still help by managing the slides, running the demo, or supporting during Q&A. Even a short intro line can help them feel included."
+          ],
+          "answer_start": 0,
+          "answer_end": 140
+        }
+      ]
+    },
+    {
+      "id": "pitch_154",
+      "is_impossible": false,
+      "question": "How do we avoid talking over each other during the demo?",
+      "answers": [
+        {
+          "text": [
+            "Practice the full flow together. Agree on cues for when each person speaks. Think of it like a mini theater play — rehearsals make a huge difference."
+          ],
+          "answer_start": 0,
+          "answer_end": 149
+        }
+      ]
+    },
+    {
+      "id": "pitch_155",
+      "is_impossible": false,
+      "question": "We're having arguments in the team about who should present. What do we do?",
+      "answers": [
+        {
+          "text": [
+            "Pause and talk it through calmly. Focus on what's best for the project, not personal ego. You can even test different versions and vote — or split roles fairly."
+          ],
+          "answer_start": 0,
+          "answer_end": 160
+        }
+      ]
+    },
+    {
+      "id": "pitch_156",
+      "is_impossible": false,
+      "question": "Do we need to make slides for our pitch?",
+      "answers": [
+        {
+          "text": [
+            "Yes, slides help guide your audience and support your message — just keep them clean, simple, and not overloaded with text."
+          ],
+          "answer_start": 0,
+          "answer_end": 123
+        }
+      ]
+    },
+    {
+      "id": "pitch_157",
+      "is_impossible": false,
+      "question": "How many slides should we have in our pitch?",
+      "answers": [
+        {
+          "text": [
+            "Around 8–10 slides is usually enough. You can follow the 10/20/30 Rule: 10 slides, 20 minutes max, 30-point font or bigger."
+          ],
+          "answer_start": 0,
+          "answer_end": 123
+        }
+      ]
+    },
+    {
+      "id": "pitch_158",
+      "is_impossible": false,
+      "question": "What should each slide contain?",
+      "answers": [
+        {
+          "text": [
+            "Each slide should focus on one idea: problem, solution, market, team, demo preview, etc. Use titles that clearly guide the audience."
+          ],
+          "answer_start": 0,
+          "answer_end": 132
+        }
+      ]
+    },
+    {
+      "id": "pitch_159",
+      "is_impossible": false,
+      "question": "Is it okay to use a template or should we design from scratch?",
+      "answers": [
+        {
+          "text": [
+            "Using a clean, modern template is totally fine — it saves time and keeps things consistent. Just make sure it fits your project's tone."
+          ],
+          "answer_start": 0,
+          "answer_end": 135
+        }
+      ]
+    },
+    {
+      "id": "pitch_160",
+      "is_impossible": false,
+      "question": "Can we include animations or transitions in the slides?",
+      "answers": [
+        {
+          "text": [
+            "Only if they're subtle and purposeful. Avoid flashy effects that distract from your message."
+          ],
+          "answer_start": 0,
+          "answer_end": 92
+        }
+      ]
+    },
+    {
+      "id": "pitch_161",
+      "is_impossible": false,
+      "question": "What kind of visuals work best in a pitch?",
+      "answers": [
+        {
+          "text": [
+            "Use screenshots, diagrams, icons, or mockups — anything that helps explain your idea visually. People remember images better than text."
+          ],
+          "answer_start": 0,
+          "answer_end": 135
+        }
+      ]
+    },
+    {
+      "id": "pitch_162",
+      "is_impossible": false,
+      "question": "Should we write full sentences or bullet points?",
+      "answers": [
+        {
+          "text": [
+            "Bullet points or short phrases work best. You should speak the full explanation — don't put everything on the slide."
+          ],
+          "answer_start": 0,
+          "answer_end": 116
+        }
+      ]
+    },
+    {
+      "id": "pitch_163",
+      "is_impossible": false,
+      "question": "Do we need to show the tech stack in the pitch slides?",
+      "answers": [
+        {
+          "text": [
+            "Only if it's important for your audience to understand the value. If not, skip or move it to Q&A or appendix slides."
+          ],
+          "answer_start": 0,
+          "answer_end": 116
+        }
+      ]
+    },
+    {
+      "id": "pitch_164",
+      "is_impossible": false,
+      "question": "Can we include a short video or screen recording instead of live demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes, and it's often safer! Just make sure the video is short, clear, and well timed with your narration."
+          ],
+          "answer_start": 0,
+          "answer_end": 104
+        }
+      ]
+    },
+    {
+      "id": "pitch_165",
+      "is_impossible": false,
+      "question": "What tools can we use to create good slides?",
+      "answers": [
+        {
+          "text": [
+            "Google Slides, PowerPoint, Canva, or Keynote — all work great. Choose what's easy and lets you collaborate with your team."
+          ],
+          "answer_start": 0,
+          "answer_end": 122
+        }
+      ]
+    },
+    {
+      "id": "pitch_166",
+      "is_impossible": false,
+      "question": "We've built a lot of features. Should we show all of them in the demo?",
+      "answers": [
+        {
+          "text": [
+            "No — focus on the most important feature that best demonstrates your value. Quality over quantity. Too much can confuse or overwhelm your audience."
+          ],
+          "answer_start": 0,
+          "answer_end": 147
+        }
+      ]
+    },
+    {
+      "id": "pitch_167",
+      "is_impossible": false,
+      "question": "How do we choose what to include in the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Ask yourself: what's the core of our idea? What makes it special? Build the pitch around that. Leave extra details for Q&A."
+          ],
+          "answer_start": 0,
+          "answer_end": 123
+        }
+      ]
+    },
+    {
+      "id": "pitch_168",
+      "is_impossible": false,
+      "question": "Should we explain every technical detail?",
+      "answers": [
+        {
+          "text": [
+            "Only if it's critical to understanding your value. Most of the time, high-level explanation is enough. Save deep tech talk for technical Q&A."
+          ],
+          "answer_start": 0,
+          "answer_end": 141
+        }
+      ]
+    },
+    {
+      "id": "pitch_169",
+      "is_impossible": false,
+      "question": "What if our product has a lot of small improvements — should we list them all?",
+      "answers": [
+        {
+          "text": [
+            "No, instead show how the overall experience is better. Use one example to represent the improvement, not a checklist."
+          ],
+          "answer_start": 0,
+          "answer_end": 117
+        }
+      ]
+    },
+    {
+      "id": "pitch_170",
+      "is_impossible": false,
+      "question": "We're worried we might forget to show something important. Any tips?",
+      "answers": [
+        {
+          "text": [
+            "Create a clear demo script or outline. Rehearse it several times. Prioritize showing one full flow rather than jumping around features."
+          ],
+          "answer_start": 0,
+          "answer_end": 135
+        }
+      ]
+    },
+    {
+      "id": "pitch_171",
+      "is_impossible": false,
+      "question": "Should we plan our demo like a story?",
+      "answers": [
+        {
+          "text": [
+            "Yes! Think of the user's journey: problem → using your solution → result. That helps keep the flow focused and relatable."
+          ],
+          "answer_start": 0,
+          "answer_end": 121
+        }
+      ]
+    },
+    {
+      "id": "pitch_172",
+      "is_impossible": false,
+      "question": "Is it better to show more features or to go deeper into one feature?",
+      "answers": [
+        {
+          "text": [
+            "Usually going deeper into one key feature is more impactful — it shows depth, not just breadth."
+          ],
+          "answer_start": 0,
+          "answer_end": 95
+        }
+      ]
+    },
+    {
+      "id": "pitch_173",
+      "is_impossible": false,
+      "question": "Can we mention features we didn't have time to build yet?",
+      "answers": [
+        {
+          "text": [
+            "Yes, briefly — in the "next steps" or "future work" part. Just don't dwell on them or apologize for what's missing."
+          ],
+          "answer_start": 0,
+          "answer_end": 115
+        }
+      ]
+    },
+    {
+      "id": "pitch_174",
+      "is_impossible": false,
+      "question": "What if our coolest feature is not fully working yet?",
+      "answers": [
+        {
+          "text": [
+            "Consider showing a prototype, mockup, or video. If it's unstable live, it's better to simulate than risk a crash during the demo."
+          ],
+          "answer_start": 0,
+          "answer_end": 129
+        }
+      ]
+    },
+    {
+      "id": "pitch_175",
+      "is_impossible": false,
+      "question": "Should we tell the audience what to focus on while watching the demo?",
+      "answers": [
+        {
+          "text": [
+            "Yes! Guide their attention — say things like "Notice how simple the workflow is here" or "This part is where we add unique value.""
+          ],
+          "answer_start": 0,
+          "answer_end": 130
+        }
+      ]
+    },
+    {
+      "id": "pitch_176",
+      "is_impossible": false,
+      "question": "What if I don't understand a question during the Q&A?",
+      "answers": [
+        {
+          "text": [
+            "It's okay to ask for clarification! Say something like, "Could you please repeat or rephrase that?" It shows you're engaged and respectful."
+          ],
+          "answer_start": 0,
+          "answer_end": 139
+        }
+      ]
+    },
+    {
+      "id": "pitch_177",
+      "is_impossible": false,
+      "question": "What if I know the answer but I'm afraid I'll mess up when speaking?",
+      "answers": [
+        {
+          "text": [
+            "Take a breath and speak slowly. You know your project — trust that. It's better to speak simply and clearly than to try to sound perfect."
+          ],
+          "answer_start": 0,
+          "answer_end": 137
+        }
+      ]
+    },
+    {
+      "id": "pitch_178",
+      "is_impossible": false,
+      "question": "Should we plan who answers which types of questions?",
+      "answers": [
+        {
+          "text": [
+            "Yes! Before the presentation, decide who handles tech, user, business, or design questions. It avoids awkward silence or overlap."
+          ],
+          "answer_start": 0,
+          "answer_end": 129
+        }
+      ]
+    },
+    {
+      "id": "pitch_179",
+      "is_impossible": false,
+      "question": "What if two people in the team start answering at the same time?",
+      "answers": [
+        {
+          "text": [
+            "Just smile and quickly defer — "Go ahead, you take this one." It happens — what matters is how you recover and stay coordinated."
+          ],
+          "answer_start": 0,
+          "answer_end": 128
+        }
+      ]
+    },
+    {
+      "id": "pitch_180",
+      "is_impossible": false,
+      "question": "Is it okay to say "I don't know"?",
+      "answers": [
+        {
+          "text": [
+            "Yes — honesty is better than making things up. Just follow with: "We'll look into that," or "That's a great point — we hadn't considered it yet.""
+          ],
+          "answer_start": 0,
+          "answer_end": 145
+        }
+      ]
+    },
+    {
+      "id": "pitch_181",
+      "is_impossible": false,
+      "question": "What if someone asks a question we already answered in the pitch?",
+      "answers": [
+        {
+          "text": [
+            "Don't get defensive — just briefly repeat or reframe the answer: "Yes, as we mentioned earlier, we…""
+          ],
+          "answer_start": 0,
+          "answer_end": 100
+        }
+      ]
+    },
+    {
+      "id": "pitch_182",
+      "is_impossible": false,
+      "question": "Can we say "That's not in scope for our project"?",
+      "answers": [
+        {
+          "text": [
+            "Yes, but say it respectfully. Try: "That's a great idea, though it's beyond the scope of what we focused on this semester.""
+          ],
+          "answer_start": 0,
+          "answer_end": 123
+        }
+      ]
+    },
+    {
+      "id": "pitch_183",
+      "is_impossible": false,
+      "question": "What if the question feels critical or negative?",
+      "answers": [
+        {
+          "text": [
+            "Stay calm and professional. Often, it's meant to test your thinking, not attack you. Acknowledge the concern and respond constructively."
+          ],
+          "answer_start": 0,
+          "answer_end": 136
+        }
+      ]
+    },
+    {
+      "id": "pitch_184",
+      "is_impossible": false,
+      "question": "Should we prepare answers in advance?",
+      "answers": [
+        {
+          "text": [
+            "Absolutely! Brainstorm possible questions and practice your answers as a team — it boosts confidence and reduces surprises."
+          ],
+          "answer_start": 0,
+          "answer_end": 123
+        }
+      ]
+    },
+    {
+      "id": "pitch_185",
+      "is_impossible": false,
+      "question": "What if someone else on the team gives a wrong answer?",
+      "answers": [
+        {
+          "text": [
+            "Don't correct them harshly. Wait for your turn or gently add, "To add to that…" and give the correct version. Team unity matters more than being right."
+          ],
+          "answer_start": 0,
+          "answer_end": 151
+        }
+      ]
+    },
+    {
+      "id": "pitch_186",
+      "is_impossible": false,
+      "question": "How should we end our pitch or demo?",
+      "answers": [
+        {
+          "text": [
+            "End with a clear, confident summary of your message. You can say something like, "That's our solution — thank you, and we're happy to take questions." Make sure the audience knows you've finished."
+          ],
+          "answer_start": 0,
+          "answer_end": 196
+        }
+      ]
+    },
+    {
+      "id": "pitch_187",
+      "is_impossible": false,
+      "question": "Should we include a call to action at the end?",
+      "answers": [
+        {
+          "text": [
+            "Yes — especially if your pitch includes an "ask." For example, "We're looking for feedback and potential pilot users — let us know if you're interested.""
+          ],
+          "answer_start": 0,
+          "answer_end": 153
+        }
+      ]
+    },
+    {
+      "id": "pitch_188",
+      "is_impossible": false,
+      "question": "What's a good way to make our ending more memorable?",
+      "answers": [
+        {
+          "text": [
+            "Try ending with a short, impactful line — a powerful quote, a bold statement, or a return to the problem you opened with. It helps close the loop emotionally."
+          ],
+          "answer_start": 0,
+          "answer_end": 158
+        }
+      ]
+    },
+    {
+      "id": "pitch_189",
+      "is_impossible": false,
+      "question": "Can we just say "thank you" and be done?",
+      "answers": [
+        {
+          "text": [
+            "You can, but it's stronger to say "thank you" after a final sentence that reinforces your message. For example: "We believe this solution can truly change how students manage teamwork — thank you!""
+          ],
+          "answer_start": 0,
+          "answer_end": 197
+        }
+      ]
+    },
+    {
+      "id": "pitch_190",
+      "is_impossible": false,
+      "question": "Should we rehearse the closing line too?",
+      "answers": [
+        {
+          "text": [
+            "Absolutely. A well-practiced ending gives you confidence and leaves a strong final impression. Don't wing it — make it count."
+          ],
+          "answer_start": 0,
+          "answer_end": 125
+        }
+      ]
+    },
+    {
+      "id": "pitch_191",
+      "is_impossible": false,
+      "question": "What if someone interrupts or asks a question before we finish?",
+      "answers": [
+        {
+          "text": [
+            "Stay polite and say, "We'll be happy to answer that in a moment — just let us finish this last part." Then wrap up as planned."
+          ],
+          "answer_start": 0,
+          "answer_end": 126
+        }
+      ]
+    },
+    {
+      "id": "pitch_192",
+      "is_impossible": false,
+      "question": "Can we end the pitch with a question for the audience?",
+      "answers": [
+        {
+          "text": [
+            "Yes, if it fits your tone. Something like "Have you ever faced this problem?" or "Would you try this solution yourself?" can be engaging."
+          ],
+          "answer_start": 0,
+          "answer_end": 137
+        }
+      ]
+    },
+    {
+      "id": "pitch_193",
+      "is_impossible": false,
+      "question": "Should all team members say something in the closing?",
+      "answers": [
+        {
+          "text": [
+            "Not necessary, but one person can close for everyone. If you want to include the team, you can all say "thank you" together or introduce yourselves briefly at the end."
+          ],
+          "answer_start": 0,
+          "answer_end": 167
+        }
+      ]
+    },
+    {
+      "id": "pitch_194",
+      "is_impossible": false,
+      "question": "What's more important — the final words or the final slide?",
+      "answers": [
+        {
+          "text": [
+            "They work together. Make sure your last slide supports your message — keep it clean, branded, and aligned with your closing line."
+          ],
+          "answer_start": 0,
+          "answer_end": 129
+        }
+      ]
+    },
+    {
+      "id": "pitch_195",
+      "is_impossible": false,
+      "question": "Can we show contact info or QR code at the end?",
+      "answers": [
+        {
+          "text": [
+            "Yes! It's a great idea — especially if you want feedback or to be remembered. Just don't clutter the slide — keep it simple."
+          ],
+          "answer_start": 0,
+          "answer_end": 124
+        }
+      ]
+    }
+  ]
+}

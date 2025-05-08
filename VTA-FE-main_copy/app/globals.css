@@ -1,0 +1,54 @@
+@import '@fontsource/roboto/400.css';
+@import '@fontsource/roboto/700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --main-prm-color: #003B7A;
+  /* --main-prm-color: #3AEDB1; */
+  --main-sec-color: #f8f9fa;
+  --main-sec-v1-color: #e9ecef;
+  --main-sec-v2-color: #dee2e6;
+  --main-bg-color: #ffffff;
+  --bot-font: "Roboto";
+  --foreground-rgb: 0, 0, 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+  }
+}
+
+body {
+  background-color: var(--main-bg-color);
+}
+.main-sec-bg-color {
+  background-color: var(--main-sec-color);
+}
+.main-sec-v2-bg-color {
+  background-color: var(--main-sec-v2-color);
+}
+.main-prm-bg-color {
+  background-color: var(--main-prm-color);
+}
+.main-prm-color {
+ color: var(--main-prm-color);
+}
+.bot-font {
+  font-family: var(--bot-font);
+  color: var(--main-prm-color);
+}
+.bot-font-2 {
+  font-family: var(--bot-font);
+  color: var(--main-sec-color);
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
